@@ -1,0 +1,3016 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeAlley Business\n"
+"POT-Creation-Date: 2014-03-07 13:24+0530\n"
+"PO-Revision-Date: 2014-03-07 13:24+0530\n"
+"Last-Translator: \n"
+"Language-Team: ThemeAlley\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:52
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../archive.php:31 ../index.php:31
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:39 ../index.php:39
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:42 ../index.php:42
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:45 ../index.php:45
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:48 ../index.php:48
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:51 ../index.php:51
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:54 ../index.php:54
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:57 ../index.php:57
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:60 ../index.php:60
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:63 ../index.php:63 ../sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: ../bizsix-welcome.php:12
+msgid "Welcome Headline Comes Here bsix"
+msgstr ""
+
+#: ../bizsix-welcome.php:22
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"six settings tab of theme options page. You can change this text in welcome "
+"text box of welcome section block in Biz six settings tab of theme options "
+"page."
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:20 ../content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-aside.php:23 ../content-page.php:18 ../content-single.php:36
+#: ../content.php:27 ../image.php:60
+msgid "Pages:"
+msgstr ""
+
+#: ../content-aside.php:35 ../content-aside.php:45 ../content-single.php:46
+#: ../content-single.php:49 ../content.php:39 ../content.php:49
+msgid " "
+msgstr ""
+
+#: ../content-aside.php:39 ../content.php:43
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content-aside.php:49 ../content.php:53
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../content-aside.php:60 ../content.php:60
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-aside.php:60 ../content.php:60
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-aside.php:60 ../content.php:60
+msgid "% Comments"
+msgstr ""
+
+#: ../content-aside.php:64 ../content-page.php:23 ../content-single.php:79
+#: ../content.php:64 ../image.php:34 ../image.php:78
+#: ../inc/template-tags.php:71 ../inc/template-tags.php:97
+msgid "Edit"
+msgstr ""
+
+#: ../content-single.php:54 ../content-single.php:62
+#, php-format
+msgid "Tags : %2$s"
+msgstr ""
+
+#: ../content-single.php:54 ../content-single.php:56 ../content-single.php:62
+#: ../content-single.php:64
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>"
+msgstr ""
+
+#: ../content-single.php:62 ../content-single.php:64
+#, php-format
+msgid "Categories : %1$s"
+msgstr ""
+
+#: ../footer-copyright.php:5
+msgid "&copy; All rights reserved."
+msgstr ""
+
+#: ../footer-five.php:51 ../footer-four.php:45 ../footer-one.php:19
+#: ../footer-six.php:94 ../footer-three.php:38 ../footer-two.php:19
+#, php-format
+msgid "Designed by: %1$s."
+msgstr ""
+
+#: ../footer-five.php:53 ../footer-four.php:47 ../footer-one.php:21
+#: ../footer-six.php:94 ../footer-three.php:40 ../footer-two.php:21
+#: ../inc/template-tags.php:87
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:65
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:105
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:113
+msgid "Footer Left Sidebar"
+msgstr ""
+
+#: ../functions.php:122
+msgid "Footer Center Sidebar"
+msgstr ""
+
+#: ../functions.php:131
+msgid "Footer Right Sidebar"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Footer Center Left Sidebar"
+msgstr ""
+
+#: ../functions.php:148
+msgid "Footer Center Right Sidebar"
+msgstr ""
+
+#: ../functions.php:550
+msgid "Select a Menu to appear here in Dashboard->Appearance->Menus "
+msgstr ""
+
+#: ../functions.php:557
+msgid "Home"
+msgstr ""
+
+#: ../header.php:64 ../header.php:86 ../header.php:105
+msgid "Skip to content"
+msgstr ""
+
+#: ../image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../image.php:69
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:71
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:73
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../image.php:75
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../index-beight.php:10 ../index-bfive.php:41
+msgid "Products"
+msgstr ""
+
+#: ../index-beight.php:135 ../index-btwo.php:245
+#: ../admin/options-framework.php:308
+msgid "Portfolio"
+msgstr ""
+
+#: ../index-beight.php:203 ../index-bfive.php:298
+msgid "News"
+msgstr ""
+
+#: ../index-beight.php:254 ../index-bfive.php:349
+msgid "Read More"
+msgstr ""
+
+#: ../index-bfive.php:13
+msgid "Welcome Headline Comes Here bfive"
+msgstr ""
+
+#: ../index-bfive.php:23
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"Five settings tab of theme options page. You can change this text in welcome "
+"text box of welcome section block in Biz Five settings tab of theme options "
+"page."
+msgstr ""
+
+#: ../index-bfive.php:166
+msgid "Services"
+msgstr ""
+
+#: ../index-bfour.php:11
+msgid "Welcome Headline Comes Here bfour"
+msgstr ""
+
+#: ../index-bfour.php:21
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"Four settings tab of theme options page. You can change this text in welcome "
+"text box of welcome section block in Biz Four settings tab of theme options "
+"page."
+msgstr ""
+
+#: ../index-bone.php:11 ../index-btwo.php:13
+msgid "Welcome Headline Comes Here"
+msgstr ""
+
+#: ../index-bone.php:21 ../index-bseven.php:124
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"one tab of theme options page. You can change this text in welcome text box "
+"of welcome section block in Biz two tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:53
+msgid "Design"
+msgstr ""
+
+#: ../index-bone.php:65
+msgid ""
+"You can change this text in description box of left section block in Biz One "
+"settings tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:92
+msgid "Development"
+msgstr ""
+
+#: ../index-bone.php:103
+msgid ""
+"You can change this text in description box of center section block in Biz "
+"One settings tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:130
+msgid "Marketing"
+msgstr ""
+
+#: ../index-bone.php:141
+msgid ""
+"You can change this text in description box of right section block in Biz "
+"One settings tab of theme options page."
+msgstr ""
+
+#: ../index-boneplus.php:11
+msgid "Welcome Headline Comes Here BizOnePlus"
+msgstr ""
+
+#: ../index-boneplus.php:21
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"One Plus settings tab of theme options page. You can change this text in "
+"welcome text box of welcome section block in Biz One Plus settings tab of "
+"theme options page."
+msgstr ""
+
+#: ../index-bseven.php:27
+msgid "Our Work"
+msgstr ""
+
+#: ../index-bseven.php:37
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"seven settings tab of theme options page. You can change this text in "
+"welcome text box of welcome section block in Biz seven settings tab of theme "
+"options page."
+msgstr ""
+
+#: ../index-bseven.php:111
+msgid "About Us"
+msgstr ""
+
+#: ../index-bthree.php:11
+msgid "Welcome Headline Comes Here bizthree"
+msgstr ""
+
+#: ../index-bthree.php:21
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"three settings tab of theme options page. You can change this text in "
+"welcome text box of welcome section block in Biz three settings tab of theme "
+"options page."
+msgstr ""
+
+#: ../index-btwo.php:23
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"two tab of theme options page. You can change this text in welcome text box "
+"of welcome section block in Biz two tab of theme options page."
+msgstr ""
+
+#: ../no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../options.php:27
+msgid "No"
+msgstr ""
+
+#: ../options.php:27
+msgid "Yes"
+msgstr ""
+
+#: ../options.php:28 ../options.php:29
+msgid "Type 1"
+msgstr ""
+
+#: ../options.php:28 ../options.php:29
+msgid "Type 2"
+msgstr ""
+
+#: ../options.php:28 ../options.php:29
+msgid "Type 3"
+msgstr ""
+
+#: ../options.php:41
+msgid "Select a page:"
+msgstr ""
+
+#: ../options.php:56 ../options.php:59
+msgid "Select a Skin"
+msgstr ""
+
+#: ../options.php:60
+msgid ""
+"If you are not using child theme, selecting child theme will be same as "
+"using alexandria skin."
+msgstr ""
+
+#: ../options.php:81
+msgid "Single Post Settings"
+msgstr ""
+
+#: ../options.php:84
+msgid "Show Featured Image?"
+msgstr ""
+
+#: ../options.php:85
+msgid "Select yes if you want to show featured image."
+msgstr ""
+
+#: ../options.php:92
+msgid "Show Ratings?"
+msgstr ""
+
+#: ../options.php:93
+msgid "Select yes if you want to show ratings under post title."
+msgstr ""
+
+#: ../options.php:100
+msgid "Show Posted by and Date?"
+msgstr ""
+
+#: ../options.php:101
+msgid "Select yes if you want to show Posted by and Date under post title."
+msgstr ""
+
+#: ../options.php:108
+msgid "Show Categories and Tags?"
+msgstr ""
+
+#: ../options.php:109
+msgid "Select yes if you want to show categories under post title."
+msgstr ""
+
+#: ../options.php:116
+msgid "Show Next/Previous Box"
+msgstr ""
+
+#: ../options.php:117
+msgid "Select yes if you want to show Next/Previous box on single post page."
+msgstr ""
+
+#: ../options.php:127
+msgid "Page Settings"
+msgstr ""
+
+#: ../options.php:130
+msgid "Show comments on Page?"
+msgstr ""
+
+#: ../options.php:131
+msgid "Select yes if you want to show comments on pages."
+msgstr ""
+
+#: ../options.php:146 ../admin/options-framework.php:285
+msgid "Social Settings"
+msgstr ""
+
+#: ../options.php:149
+msgid "Twitter"
+msgstr ""
+
+#: ../options.php:150
+msgid "Enter your twitter url"
+msgstr ""
+
+#: ../options.php:155
+msgid "Redditt"
+msgstr ""
+
+#: ../options.php:156
+msgid "Enter your reddit url"
+msgstr ""
+
+#: ../options.php:161
+msgid "Facebook"
+msgstr ""
+
+#: ../options.php:162
+msgid "Enter your facebook url"
+msgstr ""
+
+#: ../options.php:167
+msgid "Stumble"
+msgstr ""
+
+#: ../options.php:168
+msgid "Enter your stumbleupon url"
+msgstr ""
+
+#: ../options.php:173
+msgid "Flickr"
+msgstr ""
+
+#: ../options.php:174
+msgid "Enter your flickr url"
+msgstr ""
+
+#: ../options.php:179
+msgid "LinkedIn"
+msgstr ""
+
+#: ../options.php:180
+msgid "Enter your linkedin url"
+msgstr ""
+
+#: ../options.php:185
+msgid "Google"
+msgstr ""
+
+#: ../options.php:186
+msgid "Enter your google url"
+msgstr ""
+
+#: ../options.php:191
+msgid "YouTube"
+msgstr ""
+
+#: ../options.php:192
+msgid "Enter your youtube url"
+msgstr ""
+
+#: ../options.php:197
+msgid "Pinterest"
+msgstr ""
+
+#: ../options.php:198
+msgid "Enter your pinterest url"
+msgstr ""
+
+#: ../options.php:203
+msgid "Tumblr"
+msgstr ""
+
+#: ../options.php:204
+msgid "Enter your tumblr url"
+msgstr ""
+
+#: ../options.php:209
+msgid "Instagram"
+msgstr ""
+
+#: ../options.php:210
+msgid "Enter your instagram url"
+msgstr ""
+
+#: ../options.php:223
+msgid "Logo Section Settings"
+msgstr ""
+
+#: ../options.php:226
+msgid "Logo Upload"
+msgstr ""
+
+#: ../options.php:229 ../options.php:3135
+msgid "Upload Logo"
+msgstr ""
+
+#: ../options.php:230 ../options.php:3136
+msgid "Upload your logo here."
+msgstr ""
+
+#: ../options.php:236
+msgid "Logo Section Layout"
+msgstr ""
+
+#: ../options.php:240
+msgid "Select a layout"
+msgstr ""
+
+#: ../options.php:241
+msgid "Images for logo section."
+msgstr ""
+
+#: ../options.php:258
+msgid "Select Header Type"
+msgstr ""
+
+#: ../options.php:261
+msgid "Select which type of header"
+msgstr ""
+
+#: ../options.php:262
+msgid ""
+"Header One or WordPress Custom header feature. If you select custom header, "
+"go to appearance->Header and set a custom header"
+msgstr ""
+
+#: ../options.php:281
+msgid "Header On/Off Settings"
+msgstr ""
+
+#: ../options.php:285
+msgid "Show Header on homepage"
+msgstr ""
+
+#: ../options.php:286
+msgid "Select yes if you want to show Header on homepage."
+msgstr ""
+
+#: ../options.php:293
+msgid "Show Header on Single post page"
+msgstr ""
+
+#: ../options.php:294
+msgid "Select yes if you want to show Header on Single post page."
+msgstr ""
+
+#: ../options.php:301
+msgid "Show Header on Pages"
+msgstr ""
+
+#: ../options.php:302
+msgid "Select yes if you want to show Header on Pages."
+msgstr ""
+
+#: ../options.php:309
+msgid "Show Header on Category Pages"
+msgstr ""
+
+#: ../options.php:310
+msgid "Select yes if you want to show Header on Category Pages."
+msgstr ""
+
+#: ../options.php:324 ../admin/options-framework.php:289
+msgid "Header One Settings"
+msgstr ""
+
+#: ../options.php:327 ../options.php:682 ../options.php:870
+#: ../options.php:1988 ../options.php:2379 ../options.php:2502
+#: ../options.php:2546 ../options.php:2615 ../options.php:2660
+#: ../options.php:2704 ../options.php:2810 ../options.php:2861
+msgid "Welcome Section"
+msgstr ""
+
+#: ../options.php:330 ../options.php:372 ../options.php:402 ../options.php:432
+#: ../options.php:463 ../options.php:493 ../options.php:523 ../options.php:553
+#: ../options.php:583 ../options.php:613 ../options.php:643 ../options.php:713
+#: ../options.php:728 ../options.php:743 ../options.php:758 ../options.php:773
+#: ../options.php:788 ../options.php:803 ../options.php:818 ../options.php:833
+#: ../options.php:848 ../options.php:917 ../options.php:947 ../options.php:977
+#: ../options.php:1007 ../options.php:1037 ../options.php:1067
+#: ../options.php:1097 ../options.php:1127 ../options.php:1157
+#: ../options.php:1187 ../options.php:2406 ../options.php:2432
+#: ../options.php:2458
+msgid "Upload Image"
+msgstr ""
+
+#: ../options.php:331 ../options.php:373 ../options.php:403 ../options.php:433
+#: ../options.php:464 ../options.php:494 ../options.php:524 ../options.php:554
+#: ../options.php:584 ../options.php:614 ../options.php:644 ../options.php:918
+#: ../options.php:948 ../options.php:978 ../options.php:1008
+#: ../options.php:1038 ../options.php:1068 ../options.php:1098
+#: ../options.php:1128 ../options.php:1158 ../options.php:1188
+#: ../options.php:2407 ../options.php:2433 ../options.php:2459
+msgid "Upload your image here."
+msgstr ""
+
+#: ../options.php:335 ../options.php:377 ../options.php:407 ../options.php:437
+#: ../options.php:468 ../options.php:498 ../options.php:528 ../options.php:558
+#: ../options.php:588 ../options.php:618 ../options.php:648 ../options.php:685
+#: ../options.php:878 ../options.php:1991 ../options.php:2390
+#: ../options.php:2411 ../options.php:2437 ../options.php:2463
+#: ../options.php:2513 ../options.php:2557 ../options.php:2626
+#: ../options.php:2671 ../options.php:2715 ../options.php:2730
+#: ../options.php:2745 ../options.php:2768 ../options.php:2821
+#: ../options.php:2872 ../options.php:2895 ../options.php:2924
+#: ../options.php:2947 ../options.php:2962 ../options.php:2972
+#: ../options.php:3038
+msgid "Headline"
+msgstr ""
+
+#: ../options.php:336 ../options.php:378 ../options.php:408 ../options.php:438
+#: ../options.php:469 ../options.php:499 ../options.php:529 ../options.php:559
+#: ../options.php:589 ../options.php:619 ../options.php:649 ../options.php:686
+#: ../options.php:879 ../options.php:1992 ../options.php:2391
+#: ../options.php:2412 ../options.php:2438 ../options.php:2464
+#: ../options.php:2514 ../options.php:2558 ../options.php:2627
+#: ../options.php:2672 ../options.php:2716 ../options.php:2731
+#: ../options.php:2746 ../options.php:2769 ../options.php:2822
+#: ../options.php:2873 ../options.php:2896 ../options.php:2925
+#: ../options.php:2948 ../options.php:2963 ../options.php:2973
+#: ../options.php:3039
+msgid "Enter the headline"
+msgstr ""
+
+#: ../options.php:340 ../options.php:382 ../options.php:412 ../options.php:442
+#: ../options.php:473 ../options.php:503 ../options.php:533 ../options.php:563
+#: ../options.php:593 ../options.php:623 ../options.php:653 ../options.php:690
+#: ../options.php:883
+msgid "Feature text"
+msgstr ""
+
+#: ../options.php:341 ../options.php:383 ../options.php:413 ../options.php:443
+#: ../options.php:474 ../options.php:504 ../options.php:534 ../options.php:564
+#: ../options.php:594 ../options.php:624 ../options.php:654 ../options.php:691
+#: ../options.php:884
+msgid "Enter the feature text. You can use ul, li, strong, a, br html tags."
+msgstr ""
+
+#: ../options.php:345 ../options.php:387 ../options.php:417 ../options.php:447
+#: ../options.php:478 ../options.php:508 ../options.php:538 ../options.php:568
+#: ../options.php:598 ../options.php:628 ../options.php:658 ../options.php:695
+#: ../options.php:888
+msgid "Call To Action text"
+msgstr ""
+
+#: ../options.php:346 ../options.php:388 ../options.php:418 ../options.php:448
+#: ../options.php:479 ../options.php:509 ../options.php:539 ../options.php:569
+#: ../options.php:599 ../options.php:629 ../options.php:659 ../options.php:696
+#: ../options.php:889 ../options.php:2017 ../options.php:2062
+#: ../options.php:2107 ../options.php:2152
+msgid "Enter the text"
+msgstr ""
+
+#: ../options.php:350 ../options.php:392 ../options.php:422 ../options.php:452
+#: ../options.php:483 ../options.php:513 ../options.php:543 ../options.php:573
+#: ../options.php:603 ../options.php:633 ../options.php:663 ../options.php:700
+#: ../options.php:893
+msgid "Call To Action Link"
+msgstr ""
+
+#: ../options.php:351 ../options.php:393 ../options.php:423 ../options.php:453
+#: ../options.php:484 ../options.php:514 ../options.php:544 ../options.php:574
+#: ../options.php:604 ../options.php:634 ../options.php:664 ../options.php:701
+#: ../options.php:894 ../options.php:923 ../options.php:938 ../options.php:953
+#: ../options.php:968 ../options.php:983 ../options.php:998
+#: ../options.php:1013 ../options.php:1028 ../options.php:1043
+#: ../options.php:1058 ../options.php:1073 ../options.php:1088
+#: ../options.php:1103 ../options.php:1118 ../options.php:1133
+#: ../options.php:1148 ../options.php:1163 ../options.php:1178
+#: ../options.php:1193 ../options.php:1208
+msgid "Enter the full url"
+msgstr ""
+
+#: ../options.php:363 ../admin/options-framework.php:291
+msgid "Header One Plus Settings"
+msgstr ""
+
+#: ../options.php:369 ../options.php:710 ../options.php:914
+#: ../options.php:1229
+msgid "Slide 1"
+msgstr ""
+
+#: ../options.php:399 ../options.php:725 ../options.php:944
+#: ../options.php:1304
+msgid "Slide 2"
+msgstr ""
+
+#: ../options.php:429 ../options.php:740 ../options.php:974
+#: ../options.php:1379
+msgid "Slide 3"
+msgstr ""
+
+#: ../options.php:459 ../options.php:755 ../options.php:1004
+#: ../options.php:1454
+msgid "Slide 4"
+msgstr ""
+
+#: ../options.php:490 ../options.php:770 ../options.php:1034
+#: ../options.php:1529
+msgid "Slide 5"
+msgstr ""
+
+#: ../options.php:520 ../options.php:785 ../options.php:1064
+#: ../options.php:1604
+msgid "Slide 6"
+msgstr ""
+
+#: ../options.php:550 ../options.php:800 ../options.php:1094
+#: ../options.php:1679
+msgid "Slide 7"
+msgstr ""
+
+#: ../options.php:580 ../options.php:815 ../options.php:1124
+#: ../options.php:1754
+msgid "Slide 8"
+msgstr ""
+
+#: ../options.php:610 ../options.php:830 ../options.php:1154
+#: ../options.php:1829
+msgid "Slide 9"
+msgstr ""
+
+#: ../options.php:640 ../options.php:845 ../options.php:1184
+#: ../options.php:1904
+msgid "Slide 10"
+msgstr ""
+
+#: ../options.php:679 ../admin/options-framework.php:292
+msgid "Slider Two Settings"
+msgstr ""
+
+#: ../options.php:714 ../options.php:729 ../options.php:744 ../options.php:759
+#: ../options.php:774 ../options.php:789 ../options.php:804 ../options.php:819
+#: ../options.php:834 ../options.php:849
+msgid "Upload 610x410 image here."
+msgstr ""
+
+#: ../options.php:718 ../options.php:733 ../options.php:748 ../options.php:763
+#: ../options.php:778 ../options.php:793 ../options.php:808 ../options.php:823
+#: ../options.php:838 ../options.php:853 ../options.php:922 ../options.php:952
+#: ../options.php:982 ../options.php:1012 ../options.php:1042
+#: ../options.php:1072 ../options.php:1102 ../options.php:1132
+#: ../options.php:1162 ../options.php:1192 ../options.php:1255
+#: ../options.php:1330 ../options.php:1405 ../options.php:1480
+#: ../options.php:1555 ../options.php:1630 ../options.php:1705
+#: ../options.php:1780 ../options.php:1855 ../options.php:1930
+msgid "Title"
+msgstr ""
+
+#: ../options.php:719 ../options.php:734 ../options.php:749 ../options.php:764
+#: ../options.php:779 ../options.php:794 ../options.php:809 ../options.php:824
+#: ../options.php:839 ../options.php:854
+msgid "Enter the title text"
+msgstr ""
+
+#: ../options.php:867 ../admin/options-framework.php:290
+msgid "Video One Settings"
+msgstr ""
+
+#: ../options.php:873
+msgid "Youtube Video"
+msgstr ""
+
+#: ../options.php:874
+msgid "Enter the youtube link."
+msgstr ""
+
+#: ../options.php:907 ../admin/options-framework.php:293
+msgid "Slit Slider Settings"
+msgstr ""
+
+#: ../options.php:910 ../options.php:1221 ../options.php:1224
+#: ../admin/options-framework.php:294
+msgid "Fraction Slider Settings"
+msgstr ""
+
+#: ../options.php:927 ../options.php:957 ../options.php:987
+#: ../options.php:1017 ../options.php:1047 ../options.php:1077
+#: ../options.php:1107 ../options.php:1137 ../options.php:1167
+#: ../options.php:1197 ../options.php:1260 ../options.php:1335
+#: ../options.php:1410 ../options.php:1485 ../options.php:1560
+#: ../options.php:1635 ../options.php:1710 ../options.php:1785
+#: ../options.php:1860 ../options.php:1935 ../options.php:2041
+#: ../options.php:2086 ../options.php:2131
+msgid "Description"
+msgstr ""
+
+#: ../options.php:928 ../options.php:958 ../options.php:988
+#: ../options.php:1018 ../options.php:1048 ../options.php:1078
+#: ../options.php:1108 ../options.php:1138 ../options.php:1168
+#: ../options.php:1198 ../options.php:1261 ../options.php:1336
+#: ../options.php:1411 ../options.php:1486 ../options.php:1561
+#: ../options.php:1636 ../options.php:1711 ../options.php:1786
+#: ../options.php:1861 ../options.php:1936
+msgid "Enter the description"
+msgstr ""
+
+#: ../options.php:932 ../options.php:962 ../options.php:992
+#: ../options.php:1022 ../options.php:1052 ../options.php:1082
+#: ../options.php:1112 ../options.php:1142 ../options.php:1172
+#: ../options.php:1202 ../options.php:1290 ../options.php:1365
+#: ../options.php:1440 ../options.php:1515 ../options.php:1590
+#: ../options.php:1665 ../options.php:1740 ../options.php:1815
+#: ../options.php:1890 ../options.php:1965
+msgid "CTA Text"
+msgstr ""
+
+#: ../options.php:933 ../options.php:963 ../options.php:993
+#: ../options.php:1023 ../options.php:1053 ../options.php:1083
+#: ../options.php:1113 ../options.php:1143 ../options.php:1173
+#: ../options.php:1203
+msgid "Enter the CTA text"
+msgstr ""
+
+#: ../options.php:937 ../options.php:967 ../options.php:997
+#: ../options.php:1027 ../options.php:1057 ../options.php:1087
+#: ../options.php:1117 ../options.php:1147 ../options.php:1177
+#: ../options.php:1207 ../options.php:1295 ../options.php:1370
+#: ../options.php:1445 ../options.php:1520 ../options.php:1595
+#: ../options.php:1670 ../options.php:1745 ../options.php:1820
+#: ../options.php:1895 ../options.php:1970
+msgid "CTA Link"
+msgstr ""
+
+#: ../options.php:1232 ../options.php:1307 ../options.php:1382
+#: ../options.php:1457 ../options.php:1532 ../options.php:1607
+#: ../options.php:1682 ../options.php:1757 ../options.php:1832
+#: ../options.php:1907
+msgid "Effect Type?"
+msgstr ""
+
+#: ../options.php:1233 ../options.php:1308 ../options.php:1383
+#: ../options.php:1458 ../options.php:1533 ../options.php:1608
+#: ../options.php:1683 ../options.php:1758 ../options.php:1833
+#: ../options.php:1908
+msgid "Select type of effect."
+msgstr ""
+
+#: ../options.php:1240 ../options.php:1315 ../options.php:1390
+#: ../options.php:1465 ../options.php:1540 ../options.php:1615
+#: ../options.php:1690 ../options.php:1765 ../options.php:1840
+#: ../options.php:1915
+msgid "Upload Image 1"
+msgstr ""
+
+#: ../options.php:1241 ../options.php:1316 ../options.php:1391
+#: ../options.php:1466 ../options.php:1541 ../options.php:1616
+#: ../options.php:1691 ../options.php:1766 ../options.php:1841
+#: ../options.php:1916
+msgid "350x300 for Effect 1, 550x400 for Effect 2 and 450x400 for Effect 3."
+msgstr ""
+
+#: ../options.php:1245 ../options.php:1320 ../options.php:1395
+#: ../options.php:1470 ../options.php:1545 ../options.php:1620
+#: ../options.php:1695 ../options.php:1770 ../options.php:1845
+#: ../options.php:1920
+msgid "Upload Image 2"
+msgstr ""
+
+#: ../options.php:1246 ../options.php:1321 ../options.php:1396
+#: ../options.php:1471 ../options.php:1546 ../options.php:1621
+#: ../options.php:1696 ../options.php:1771 ../options.php:1846
+#: ../options.php:1921
+msgid ""
+"200x250 for Effect 1, 300x300 for Effect 2, This image won't be used in "
+"Effect 3."
+msgstr ""
+
+#: ../options.php:1250 ../options.php:1325 ../options.php:1400
+#: ../options.php:1475 ../options.php:1550 ../options.php:1625
+#: ../options.php:1700 ../options.php:1775 ../options.php:1850
+#: ../options.php:1925
+msgid "Upload Image 3"
+msgstr ""
+
+#: ../options.php:1251 ../options.php:1326 ../options.php:1401
+#: ../options.php:1476 ../options.php:1551 ../options.php:1626
+#: ../options.php:1701 ../options.php:1776 ../options.php:1851
+#: ../options.php:1926
+msgid ""
+"300x200 for Effect 1, 400x300 for Effect 2, This image won't be used in "
+"Effect 3."
+msgstr ""
+
+#: ../options.php:1256 ../options.php:1331 ../options.php:1406
+#: ../options.php:1481 ../options.php:1556 ../options.php:1631
+#: ../options.php:1706 ../options.php:1781 ../options.php:1856
+#: ../options.php:1931
+msgid "Enter the title"
+msgstr ""
+
+#: ../options.php:1265 ../options.php:1340 ../options.php:1415
+#: ../options.php:1490 ../options.php:1565 ../options.php:1640
+#: ../options.php:1715 ../options.php:1790 ../options.php:1865
+#: ../options.php:1940 ../options.php:2046 ../options.php:2091
+#: ../options.php:2136
+msgid "Item 1"
+msgstr ""
+
+#: ../options.php:1266 ../options.php:1271 ../options.php:1276
+#: ../options.php:1281 ../options.php:1286 ../options.php:1341
+#: ../options.php:1346 ../options.php:1351 ../options.php:1356
+#: ../options.php:1361 ../options.php:1416 ../options.php:1421
+#: ../options.php:1426 ../options.php:1431 ../options.php:1436
+#: ../options.php:1491 ../options.php:1496 ../options.php:1501
+#: ../options.php:1506 ../options.php:1511 ../options.php:1566
+#: ../options.php:1571 ../options.php:1576 ../options.php:1581
+#: ../options.php:1586 ../options.php:1641 ../options.php:1646
+#: ../options.php:1651 ../options.php:1656 ../options.php:1661
+#: ../options.php:1716 ../options.php:1721 ../options.php:1726
+#: ../options.php:1731 ../options.php:1736 ../options.php:1791
+#: ../options.php:1796 ../options.php:1801 ../options.php:1806
+#: ../options.php:1811 ../options.php:1866 ../options.php:1871
+#: ../options.php:1876 ../options.php:1881 ../options.php:1886
+#: ../options.php:1941 ../options.php:1946 ../options.php:1951
+#: ../options.php:1956 ../options.php:1961
+msgid "Enter a few words. Keep it short. Will be used only for effect 1"
+msgstr ""
+
+#: ../options.php:1270 ../options.php:1345 ../options.php:1420
+#: ../options.php:1495 ../options.php:1570 ../options.php:1645
+#: ../options.php:1720 ../options.php:1795 ../options.php:1870
+#: ../options.php:1945 ../options.php:2051 ../options.php:2096
+#: ../options.php:2141
+msgid "Item 2"
+msgstr ""
+
+#: ../options.php:1275 ../options.php:1350 ../options.php:1425
+#: ../options.php:1500 ../options.php:1575 ../options.php:1650
+#: ../options.php:1725 ../options.php:1800 ../options.php:1875
+#: ../options.php:1950 ../options.php:2056 ../options.php:2101
+#: ../options.php:2146
+msgid "Item 3"
+msgstr ""
+
+#: ../options.php:1280 ../options.php:1355 ../options.php:1430
+#: ../options.php:1505 ../options.php:1580 ../options.php:1655
+#: ../options.php:1730 ../options.php:1805 ../options.php:1880
+#: ../options.php:1955
+msgid "Item 4"
+msgstr ""
+
+#: ../options.php:1285 ../options.php:1360 ../options.php:1435
+#: ../options.php:1510 ../options.php:1585 ../options.php:1660
+#: ../options.php:1735 ../options.php:1810 ../options.php:1885
+#: ../options.php:1960
+msgid "Item 5"
+msgstr ""
+
+#: ../options.php:1291 ../options.php:1366 ../options.php:1441
+#: ../options.php:1516 ../options.php:1591 ../options.php:1666
+#: ../options.php:1741 ../options.php:1816 ../options.php:1891
+#: ../options.php:1966
+msgid "Enter the CTA text. Only used in Effect 1 and 3."
+msgstr ""
+
+#: ../options.php:1296 ../options.php:1371 ../options.php:1446
+#: ../options.php:1521 ../options.php:1596 ../options.php:1671
+#: ../options.php:1746 ../options.php:1821 ../options.php:1896
+#: ../options.php:1971
+msgid "Enter the full url."
+msgstr ""
+
+#: ../options.php:1985 ../admin/options-framework.php:295
+msgid "Hero Header Settings"
+msgstr ""
+
+#: ../options.php:1996
+msgid "Welcome Text"
+msgstr ""
+
+#: ../options.php:1997
+msgid "Enter the welcome text"
+msgstr ""
+
+#: ../options.php:2003
+msgid "Pitch Section"
+msgstr ""
+
+#: ../options.php:2006
+msgid "Pitch Headline"
+msgstr ""
+
+#: ../options.php:2007
+msgid "Enter the pitch headline"
+msgstr ""
+
+#: ../options.php:2011
+msgid "Pitch Text"
+msgstr ""
+
+#: ../options.php:2012
+msgid "Enter the pitch text"
+msgstr ""
+
+#: ../options.php:2016
+msgid "Pitch CTA"
+msgstr ""
+
+#: ../options.php:2021
+msgid "CTA link"
+msgstr ""
+
+#: ../options.php:2022 ../options.php:2067 ../options.php:2112
+#: ../options.php:2157 ../options.php:2274 ../options.php:2284
+#: ../options.php:2294 ../options.php:2304 ../options.php:2314
+#: ../options.php:2324 ../options.php:2334 ../options.php:2344
+#: ../options.php:2354 ../options.php:2364
+msgid "Enter the url"
+msgstr ""
+
+#: ../options.php:2028
+msgid "Center Panel"
+msgstr ""
+
+#: ../options.php:2031 ../options.php:2076 ../options.php:2121
+msgid "Image"
+msgstr ""
+
+#: ../options.php:2032 ../options.php:2077 ../options.php:2122
+msgid "Upload the Image"
+msgstr ""
+
+#: ../options.php:2036 ../options.php:2081 ../options.php:2126
+msgid "Heading"
+msgstr ""
+
+#: ../options.php:2037 ../options.php:2082 ../options.php:2127
+msgid "Enter the title/product name/service name. Keep it to 3-4 short words."
+msgstr ""
+
+#: ../options.php:2042 ../options.php:2087 ../options.php:2132
+msgid "Enter the description. Keep it to 3-10 short words."
+msgstr ""
+
+#: ../options.php:2047 ../options.php:2052 ../options.php:2057
+#: ../options.php:2092 ../options.php:2097 ../options.php:2102
+#: ../options.php:2137 ../options.php:2142 ../options.php:2147
+msgid "Enter the item text. Keep it to 3-4 short words."
+msgstr ""
+
+#: ../options.php:2061 ../options.php:2106 ../options.php:2151
+msgid "Button Text"
+msgstr ""
+
+#: ../options.php:2066 ../options.php:2111 ../options.php:2156
+msgid "Button link"
+msgstr ""
+
+#: ../options.php:2073
+msgid "Left Panel"
+msgstr ""
+
+#: ../options.php:2118
+msgid "Right Panel"
+msgstr ""
+
+#: ../options.php:2168
+msgid "Layout Settings"
+msgstr ""
+
+#: ../options.php:2171
+msgid "Select a homepage layout"
+msgstr ""
+
+#: ../options.php:2172 ../options.php:3098 ../options.php:3207
+msgid "Images for layout."
+msgstr ""
+
+#: ../options.php:2193
+msgid "Quote Section"
+msgstr ""
+
+#: ../options.php:2196
+msgid "Show Quote?"
+msgstr ""
+
+#: ../options.php:2197 ../options.php:3031
+msgid "Select yes if you want to show quote."
+msgstr ""
+
+#: ../options.php:2204
+msgid "Quote 1"
+msgstr ""
+
+#: ../options.php:2205 ../options.php:2215 ../options.php:2225
+#: ../options.php:2235 ../options.php:2245
+msgid "Enter the Quote Text. You can use ul, li, strong, a, br, em html tags."
+msgstr ""
+
+#: ../options.php:2209
+msgid "Customer Name 1"
+msgstr ""
+
+#: ../options.php:2210 ../options.php:2220 ../options.php:2230
+#: ../options.php:2240 ../options.php:2250
+msgid "Enter the customer name"
+msgstr ""
+
+#: ../options.php:2214
+msgid "Quote 2"
+msgstr ""
+
+#: ../options.php:2219
+msgid "Customer Name 2"
+msgstr ""
+
+#: ../options.php:2224
+msgid "Quote 3"
+msgstr ""
+
+#: ../options.php:2229
+msgid "Customer Name 3"
+msgstr ""
+
+#: ../options.php:2234
+msgid "Quote 4"
+msgstr ""
+
+#: ../options.php:2239
+msgid "Customer Name 4"
+msgstr ""
+
+#: ../options.php:2244
+msgid "Quote 5"
+msgstr ""
+
+#: ../options.php:2249
+msgid "Customer Name 5"
+msgstr ""
+
+#: ../options.php:2257
+msgid "Client Logos"
+msgstr ""
+
+#: ../options.php:2260
+msgid "Show Client Logo section?"
+msgstr ""
+
+#: ../options.php:2261
+msgid "Select yes if you want to show client logos."
+msgstr ""
+
+#: ../options.php:2268
+msgid "Client Logo # 1"
+msgstr ""
+
+#: ../options.php:2269 ../options.php:2279 ../options.php:2289
+#: ../options.php:2299 ../options.php:2309 ../options.php:2319
+#: ../options.php:2329 ../options.php:2339 ../options.php:2349
+#: ../options.php:2359
+msgid "Upload the logo"
+msgstr ""
+
+#: ../options.php:2273
+msgid "Client Logo # 1 link"
+msgstr ""
+
+#: ../options.php:2278
+msgid "Client Logo # 2"
+msgstr ""
+
+#: ../options.php:2283
+msgid "Client Logo # 2 link"
+msgstr ""
+
+#: ../options.php:2288
+msgid "Client Logo # 3"
+msgstr ""
+
+#: ../options.php:2293
+msgid "Client Logo # 3 link"
+msgstr ""
+
+#: ../options.php:2298
+msgid "Client Logo # 4"
+msgstr ""
+
+#: ../options.php:2303
+msgid "Client Logo # 4 link"
+msgstr ""
+
+#: ../options.php:2308
+msgid "Client Logo # 5"
+msgstr ""
+
+#: ../options.php:2313
+msgid "Client Logo # 5 link"
+msgstr ""
+
+#: ../options.php:2318
+msgid "Client Logo # 6"
+msgstr ""
+
+#: ../options.php:2323
+msgid "Client Logo # 6 link"
+msgstr ""
+
+#: ../options.php:2328
+msgid "Client Logo # 7"
+msgstr ""
+
+#: ../options.php:2333
+msgid "Client Logo # 7 link"
+msgstr ""
+
+#: ../options.php:2338
+msgid "Client Logo # 8"
+msgstr ""
+
+#: ../options.php:2343
+msgid "Client Logo # 8 link"
+msgstr ""
+
+#: ../options.php:2348
+msgid "Client Logo # 9"
+msgstr ""
+
+#: ../options.php:2353
+msgid "Client Logo # 9 link"
+msgstr ""
+
+#: ../options.php:2358
+msgid "Client Logo # 10"
+msgstr ""
+
+#: ../options.php:2363
+msgid "Client Logo # 10 link"
+msgstr ""
+
+#: ../options.php:2375 ../admin/options-framework.php:297
+msgid "Biz One Settings"
+msgstr ""
+
+#: ../options.php:2382 ../options.php:2505 ../options.php:2549
+#: ../options.php:2618 ../options.php:2663 ../options.php:2707
+#: ../options.php:2813 ../options.php:2864
+msgid "Show Welcome Section?"
+msgstr ""
+
+#: ../options.php:2383 ../options.php:2506
+msgid "Select yes if you want to show welcome section."
+msgstr ""
+
+#: ../options.php:2395 ../options.php:2416 ../options.php:2442
+#: ../options.php:2468 ../options.php:2518 ../options.php:2562
+#: ../options.php:2631 ../options.php:2676 ../options.php:2720
+#: ../options.php:2826 ../options.php:2877 ../options.php:2900
+#: ../options.php:2929 ../options.php:3043
+msgid "Welcome text"
+msgstr ""
+
+#: ../options.php:2396 ../options.php:2417 ../options.php:2443
+#: ../options.php:2469 ../options.php:2519 ../options.php:2563
+#: ../options.php:2632 ../options.php:2677 ../options.php:2721
+#: ../options.php:2827 ../options.php:2878 ../options.php:2901
+#: ../options.php:2930 ../options.php:2953 ../options.php:3044
+msgid ""
+"Enter the welcome text. You can use ul, li, strong, a, br, em html tags."
+msgstr ""
+
+#: ../options.php:2403
+msgid "Left Section"
+msgstr ""
+
+#: ../options.php:2421 ../options.php:2447 ../options.php:2473
+msgid "Link"
+msgstr ""
+
+#: ../options.php:2422 ../options.php:2448 ../options.php:2474
+msgid "Enter the link to product or service"
+msgstr ""
+
+#: ../options.php:2429
+msgid "Center Section"
+msgstr ""
+
+#: ../options.php:2455
+msgid "Right Section"
+msgstr ""
+
+#: ../options.php:2481 ../options.php:2594
+msgid "Recent Posts"
+msgstr ""
+
+#: ../options.php:2484 ../options.php:2597
+msgid "Show Recent Posts Section?"
+msgstr ""
+
+#: ../options.php:2485 ../options.php:2598
+msgid "Select yes if you want to recent posts at the bottom."
+msgstr ""
+
+#: ../options.php:2499 ../admin/options-framework.php:298
+msgid "Biz One Plus Settings"
+msgstr ""
+
+#: ../options.php:2525 ../options.php:2570 ../options.php:2727
+#: ../options.php:2944
+msgid "Products Section"
+msgstr ""
+
+#: ../options.php:2528 ../options.php:2573 ../options.php:2642
+#: ../options.php:2686 ../options.php:3017
+msgid "Show Products/Services Section?"
+msgstr ""
+
+#: ../options.php:2529 ../options.php:2574 ../options.php:2643
+#: ../options.php:2687 ../options.php:3018
+msgid "Select yes if you want to show products/services section."
+msgstr ""
+
+#: ../options.php:2543 ../admin/options-framework.php:299
+msgid "Biz Two Settings"
+msgstr ""
+
+#: ../options.php:2550 ../options.php:2619 ../options.php:2664
+#: ../options.php:2708
+msgid "Select yes if you want to Welcome section."
+msgstr ""
+
+#: ../options.php:2583 ../options.php:2959
+msgid "Portfolio Section"
+msgstr ""
+
+#: ../options.php:2586
+msgid "How many portfolio items?"
+msgstr ""
+
+#: ../options.php:2587
+msgid "Enter a number."
+msgstr ""
+
+#: ../options.php:2612 ../admin/options-framework.php:300
+msgid "Biz Three Settings"
+msgstr ""
+
+#: ../options.php:2639 ../options.php:2683 ../options.php:3014
+msgid "Products/Services Section"
+msgstr ""
+
+#: ../options.php:2657 ../admin/options-framework.php:301
+msgid "Biz Four Settings"
+msgstr ""
+
+#: ../options.php:2701 ../admin/options-framework.php:302
+msgid "Biz Five Settings"
+msgstr ""
+
+#: ../options.php:2735 ../options.php:2750 ../options.php:2952
+msgid "Product description"
+msgstr ""
+
+#: ../options.php:2736 ../options.php:2751
+msgid "Enter the welcome text."
+msgstr ""
+
+#: ../options.php:2742
+msgid "Services Section"
+msgstr ""
+
+#: ../options.php:2757 ../options.php:2969
+msgid "News Section"
+msgstr ""
+
+#: ../options.php:2760
+msgid "Show News/Blog Section?"
+msgstr ""
+
+#: ../options.php:2761
+msgid "Select yes if you want to show News/Blog section."
+msgstr ""
+
+#: ../options.php:2773 ../options.php:2977
+msgid "Select Category"
+msgstr ""
+
+#: ../options.php:2774 ../options.php:2978
+msgid "Posts from this category will be shown as news."
+msgstr ""
+
+#: ../options.php:2780 ../options.php:2984
+msgid "No of posts"
+msgstr ""
+
+#: ../options.php:2781 ../options.php:2985
+msgid "Enter the number"
+msgstr ""
+
+#: ../options.php:2786 ../options.php:2990
+msgid "Show ReadMore button?"
+msgstr ""
+
+#: ../options.php:2787 ../options.php:2991
+msgid "Select yes if you want to show button."
+msgstr ""
+
+#: ../options.php:2794 ../options.php:2998
+msgid "Default Button Text"
+msgstr ""
+
+#: ../options.php:2795 ../options.php:2999
+msgid "Enter the default text for the button."
+msgstr ""
+
+#: ../options.php:2807 ../admin/options-framework.php:303
+msgid "Biz Six Settings"
+msgstr ""
+
+#: ../options.php:2814 ../options.php:2865 ../options.php:3123
+msgid "Select yes if you want to show Welcome section."
+msgstr ""
+
+#: ../options.php:2831
+msgid "CTA 1 Text"
+msgstr ""
+
+#: ../options.php:2832 ../options.php:2837
+msgid "Enter CTA 1"
+msgstr ""
+
+#: ../options.php:2836
+msgid "CTA 1 Link"
+msgstr ""
+
+#: ../options.php:2841
+msgid "CTA 2 Text"
+msgstr ""
+
+#: ../options.php:2842 ../options.php:2847
+msgid "Enter CTA 2"
+msgstr ""
+
+#: ../options.php:2846
+msgid "CTA 2 Link"
+msgstr ""
+
+#: ../options.php:2858 ../admin/options-framework.php:304
+msgid "Biz Seven Settings"
+msgstr ""
+
+#: ../options.php:2884
+msgid "Work Section"
+msgstr ""
+
+#: ../options.php:2887
+msgid "Show Work Section?"
+msgstr ""
+
+#: ../options.php:2888 ../options.php:2917
+msgid "Select yes if you want to show work section"
+msgstr ""
+
+#: ../options.php:2905
+msgid "Number of Items"
+msgstr ""
+
+#: ../options.php:2906
+msgid "Enter the number of items. If not set, 12 will be shown."
+msgstr ""
+
+#: ../options.php:2913 ../options.php:3027
+msgid "About Section"
+msgstr ""
+
+#: ../options.php:2916 ../options.php:3030
+msgid "Show About Section?"
+msgstr ""
+
+#: ../options.php:2941 ../admin/options-framework.php:305
+msgid "Biz Eight Settings"
+msgstr ""
+
+#: ../options.php:3011 ../admin/options-framework.php:306
+msgid "Biz Nine Settings"
+msgstr ""
+
+#: ../options.php:3055
+msgid "Standard Page Settings"
+msgstr ""
+
+#: ../options.php:3058
+msgid "Show Comments?"
+msgstr ""
+
+#: ../options.php:3059
+msgid "Select yes if you want to show comments"
+msgstr ""
+
+#: ../options.php:3073
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../options.php:3076
+msgid "Global Settings - Portfolio"
+msgstr ""
+
+#: ../options.php:3079
+msgid "Show CTA?"
+msgstr ""
+
+#: ../options.php:3080
+msgid "Select yes to show CTA button on portfolio items."
+msgstr ""
+
+#: ../options.php:3087
+msgid "Default CTA"
+msgstr ""
+
+#: ../options.php:3088
+msgid "Enter the default CTA"
+msgstr ""
+
+#: ../options.php:3094
+msgid "Portfolio Layouts"
+msgstr ""
+
+#: ../options.php:3097
+msgid "Select a portfolio layout"
+msgstr ""
+
+#: ../options.php:3116
+msgid "Footer Settings"
+msgstr ""
+
+#: ../options.php:3119
+msgid "Social Section"
+msgstr ""
+
+#: ../options.php:3122
+msgid "Show Social Section?"
+msgstr ""
+
+#: ../options.php:3132
+msgid "Footer Logo Upload"
+msgstr ""
+
+#: ../options.php:3142
+msgid "Misc footer Settings"
+msgstr ""
+
+#: ../options.php:3145
+msgid "Show search?"
+msgstr ""
+
+#: ../options.php:3146
+msgid "Select yes if you want to show search in footer."
+msgstr ""
+
+#: ../options.php:3153
+msgid "Show credits?"
+msgstr ""
+
+#: ../options.php:3154
+msgid "Select yes if you want to show credits in footer."
+msgstr ""
+
+#: ../options.php:3161
+msgid "Copyright text"
+msgstr ""
+
+#: ../options.php:3162
+msgid "Enter the copyright text. Few words no html tags."
+msgstr ""
+
+#: ../options.php:3168
+msgid "Address Settings"
+msgstr ""
+
+#: ../options.php:3171
+msgid "Address"
+msgstr ""
+
+#: ../options.php:3172 ../options.php:3177 ../options.php:3182
+#: ../options.php:3187 ../options.php:3192 ../options.php:3197
+msgid "Enter the link to project"
+msgstr ""
+
+#: ../options.php:3176
+msgid "Email"
+msgstr ""
+
+#: ../options.php:3181
+msgid "Phone Number"
+msgstr ""
+
+#: ../options.php:3186
+msgid "Fax Number"
+msgstr ""
+
+#: ../options.php:3191
+msgid "Skype"
+msgstr ""
+
+#: ../options.php:3196
+msgid "Footer Map"
+msgstr ""
+
+#: ../options.php:3203
+msgid "Footer Layouts"
+msgstr ""
+
+#: ../options.php:3206
+msgid "Select a footer layout"
+msgstr ""
+
+#: ../portfolio-four.php:76 ../portfolio-one.php:76 ../portfolio-three.php:76
+#: ../portfolio-two.php:76
+msgid "Continue"
+msgstr ""
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:10 ../searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#: ../slider-oneplus.php:39 ../slider-oneplus.php:104
+#: ../slider-oneplus.php:169 ../slider-oneplus.php:234
+#: ../slider-oneplus.php:299 ../slider-oneplus.php:364
+#: ../slider-oneplus.php:429 ../slider-oneplus.php:494
+#: ../slider-oneplus.php:559 ../slider-oneplus.php:624
+msgid "Responsive Business Theme"
+msgstr ""
+
+#: ../admin/options-framework.php:169 ../admin/options-framework.php:493
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/options-framework.php:284
+msgid "General"
+msgstr ""
+
+#: ../admin/options-framework.php:284 ../admin/options-framework.php:286
+#: ../admin/options-framework.php:288 ../admin/options-framework.php:296
+#: ../admin/options-framework.php:308 ../admin/options-framework.php:309
+msgid "Settings"
+msgstr ""
+
+#: ../admin/options-framework.php:286
+msgid "Logo Section"
+msgstr ""
+
+#: ../admin/options-framework.php:288
+msgid "Header"
+msgstr ""
+
+#: ../admin/options-framework.php:296
+msgid "Layout"
+msgstr ""
+
+#: ../admin/options-framework.php:307
+msgid "Standard Blog Settings"
+msgstr ""
+
+#: ../admin/options-framework.php:309
+msgid "Footer"
+msgstr ""
+
+#: ../admin/options-framework.php:357
+msgid "Save Options"
+msgstr ""
+
+#: ../admin/options-framework.php:358
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../admin/options-framework.php:358
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../admin/options-framework.php:394
+msgid "Default options restored."
+msgstr ""
+
+#: ../admin/options-framework.php:435
+msgid "Options saved."
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../inc/customizer.php:23
+msgid "Logo Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:49 ../inc/customizer.php:269
+msgid "Slider Section Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:61 ../inc/customizer.php:281
+msgid "Upload a image as background image"
+msgstr ""
+
+#: ../inc/customizer.php:70 ../inc/customizer.php:290
+msgid "Background Repeat"
+msgstr ""
+
+#: ../inc/customizer.php:75 ../inc/customizer.php:295
+msgid "No Repeat"
+msgstr ""
+
+#: ../inc/customizer.php:76 ../inc/customizer.php:296
+msgid "Tile"
+msgstr ""
+
+#: ../inc/customizer.php:77 ../inc/customizer.php:297
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../inc/customizer.php:78 ../inc/customizer.php:298
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../inc/customizer.php:82 ../inc/customizer.php:302
+msgid "Background Position"
+msgstr ""
+
+#: ../inc/customizer.php:87 ../inc/customizer.php:307
+msgid "Left"
+msgstr ""
+
+#: ../inc/customizer.php:88 ../inc/customizer.php:308
+msgid "Center"
+msgstr ""
+
+#: ../inc/customizer.php:89 ../inc/customizer.php:309
+msgid "Right"
+msgstr ""
+
+#: ../inc/customizer.php:93 ../inc/customizer.php:313
+msgid "Background Attachment"
+msgstr ""
+
+#: ../inc/customizer.php:98 ../inc/customizer.php:318
+msgid "Fixed"
+msgstr ""
+
+#: ../inc/customizer.php:99 ../inc/customizer.php:319
+msgid "Scroll"
+msgstr ""
+
+#: ../inc/customizer.php:114
+msgid "Text logo Color"
+msgstr ""
+
+#: ../inc/customizer.php:128
+msgid "Description/Tagline Color"
+msgstr ""
+
+#: ../inc/customizer.php:141
+msgid "Menu Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:171
+msgid "Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:182
+msgid "Upload a image as Menu background image"
+msgstr ""
+
+#: ../inc/customizer.php:194
+msgid "Menu Dropdown/Active Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:205
+msgid "Menu Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:216
+msgid "Dropdown Hover Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:227
+msgid "Top Border Color, Will be used in mobile view."
+msgstr ""
+
+#: ../inc/customizer.php:239
+msgid "Slider Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:334
+msgid "Slider One Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:348
+msgid "Slider One Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:362
+msgid "Slider One List Item Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:376
+msgid "Slider One Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:390
+msgid "Slider One Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:404
+msgid "Slider One Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:423
+msgid "Video One Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:437
+msgid "Video One Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:451
+msgid "Video One List Item Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:465
+msgid "Video One Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:479
+msgid "Video One Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:493
+msgid "Video One Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:513
+msgid "Slider OnePlus Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:527
+msgid "Slider OnePlus Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:541
+msgid "Slider OnePlus List Item Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:555
+msgid "Slider OnePlus Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:569
+msgid "Slider OnePlus Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:583
+msgid "Slider OnePlus Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:602
+msgid "Slider Two Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:616
+msgid "Slider Two Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:630
+msgid "Slider Two List Item Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:644
+msgid "Slider Two Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:658
+msgid "Slider Two Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:672
+msgid "Slider Two Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:691
+msgid "SlitSlider Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:705
+msgid "SlitSlider Title Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:719
+msgid "SlitSlider Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:733
+msgid "SlitSlider Description Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:747
+msgid "SlitSlider Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:761
+msgid "SlitSlider Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:775
+msgid "SlitSlider Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:794
+msgid "fractionslider Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:808
+msgid "fractionslider Title Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:822
+msgid "fractionslider Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:836
+msgid "fractionslider Description Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:850
+msgid "fractionslider Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:864
+msgid "fractionslider Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:878
+msgid "fractionslider Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:897
+msgid "Hero Slider Welcome Heading Color"
+msgstr ""
+
+#: ../inc/customizer.php:911
+msgid "Hero Slider Welcome Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:925
+msgid "Upload a image as left slide background image"
+msgstr ""
+
+#: ../inc/customizer.php:940
+msgid "Upload a image as center slide background image"
+msgstr ""
+
+#: ../inc/customizer.php:955 ../inc/customizer.php:1054
+msgid "Upload a image as right slide background image"
+msgstr ""
+
+#: ../inc/customizer.php:970
+msgid "heroslider Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:984
+msgid "heroslider Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:998 ../inc/customizer.php:1097
+msgid "heroslider Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1012 ../inc/customizer.php:1111
+msgid "heroslider Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:1026 ../inc/customizer.php:1125
+msgid "heroslider Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:1040
+msgid "Heroslider pitch container BG color"
+msgstr ""
+
+#: ../inc/customizer.php:1069
+msgid "Heroslider pitch title color"
+msgstr ""
+
+#: ../inc/customizer.php:1083
+msgid "Heroslider pitch text color"
+msgstr ""
+
+#: ../inc/customizer.php:1139
+msgid "Main Content Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:1152
+msgid "Outer Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1166
+msgid "Outer Background Image"
+msgstr ""
+
+#: ../inc/customizer.php:1183
+msgid "Main Content Section Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1197
+msgid "Main Content Section Background Image"
+msgstr ""
+
+#: ../inc/customizer.php:1249
+msgid "Footer Client Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:1261
+msgid "Footer Client Section Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1275
+msgid "Upload a image as Footer Client Section background image"
+msgstr ""
+
+#: ../inc/customizer.php:1287
+msgid "Social Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:1299
+msgid "Footer Social Section Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1313
+msgid "Upload a image as Social Section background image"
+msgstr ""
+
+#: ../inc/customizer.php:1324
+msgid "Footer Map Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:1336
+msgid "Footer Map Section Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1350
+msgid "Upload a image as Footer Map Section background image"
+msgstr ""
+
+#: ../inc/customizer.php:1365
+msgid "Footer Map Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1375
+msgid "Footer Widget Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:1386
+msgid "Footer Widget Heading Color"
+msgstr ""
+
+#: ../inc/customizer.php:1400
+msgid "Footer Widget Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1414
+msgid "Footer Widget Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:1428
+msgid "Footer Widget List Item Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:1442
+msgid "Footer Widget Select Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1456
+msgid "Footer Widget Select BG Color"
+msgstr ""
+
+#: ../inc/customizer.php:1470
+msgid "Footer Widget Search Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1484
+msgid "Footer Widget Search BG Color"
+msgstr ""
+
+#: ../inc/customizer.php:1498
+msgid "Footer Widget Search Button Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1512
+msgid "Footer Widget Search Button BG Color"
+msgstr ""
+
+#: ../inc/customizer.php:1526
+msgid "Footer Widget Section BG Color"
+msgstr ""
+
+#: ../inc/customizer.php:1540
+msgid "Footer Widget Section BG Image"
+msgstr ""
+
+#: ../inc/extras.php:66
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:44
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:48
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:92
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:101
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:187
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:195
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:24
+msgid "Left Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:37
+msgid "Left Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:50
+msgid "Left Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:63
+msgid "Left Section Welcome Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:76
+msgid "Left Section Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:89
+msgid "Left Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:102
+msgid "Left Section Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:115
+msgid "Left Section List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:128
+msgid "Center Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:141
+msgid "Center Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:154
+msgid "Center Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:167
+msgid "Right Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:180
+msgid "Right Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:193
+msgid "Right Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:206
+msgid "Right Section News/Blog Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:219
+msgid "Right Section News/Blog Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:232
+msgid "Right Section Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:245
+msgid "Right Section Button BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:258
+msgid "Right Section Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:24
+#: ../inc/customizer/customizer-bsix.php:25
+msgid "Welcome Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:38
+#: ../inc/customizer/customizer-bsix.php:38
+msgid "Welcome Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:51
+#: ../inc/customizer/customizer-bsix.php:51
+msgid "Welcome Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:64
+#: ../inc/customizer/customizer-bsix.php:64
+msgid "Welcome Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:77
+msgid "Welcome Section Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:90
+msgid "Welcome Section List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:103
+#: ../inc/customizer/customizer-bnine.php:24
+msgid "Products/Services Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:117
+#: ../inc/customizer/customizer-bnine.php:37
+msgid "Products/Services Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:130
+#: ../inc/customizer/customizer-bnine.php:50
+msgid "Products/Services Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:143
+#: ../inc/customizer/customizer-bnine.php:63
+msgid "Products/Services Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:156
+msgid "Products/ServicesSection Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:169
+msgid "Products/Services Section List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:182
+msgid "News Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:195
+msgid "News Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:208
+msgid "News Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:221
+msgid "News Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:234
+msgid "News Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:247
+msgid "News Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:260
+msgid "News Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:273
+msgid "Testimonial BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:286
+msgid "Testimonial Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:299
+msgid "Testimonial Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:312
+msgid "Testimonial Button Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:325
+msgid "Testimonial Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:338
+msgid "Testimonial Button BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:24
+#: ../inc/customizer/customizer-boneplus.php:24
+#: ../inc/customizer/customizer-bthree.php:24
+#: ../inc/customizer/customizer-btwo.php:24
+msgid "Welcome Headline Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:37
+#: ../inc/customizer/customizer-bone.php:38
+#: ../inc/customizer/customizer-boneplus.php:37
+#: ../inc/customizer/customizer-bthree.php:37
+#: ../inc/customizer/customizer-btwo.php:37
+msgid "Welcome Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:50
+#: ../inc/customizer/customizer-bone.php:52
+#: ../inc/customizer/customizer-boneplus.php:50
+#: ../inc/customizer/customizer-bthree.php:50
+#: ../inc/customizer/customizer-btwo.php:50
+msgid "Welcome Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:63
+#: ../inc/customizer/customizer-bone.php:66
+#: ../inc/customizer/customizer-boneplus.php:63
+#: ../inc/customizer/customizer-bthree.php:63
+#: ../inc/customizer/customizer-btwo.php:63
+msgid "Welcome List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:76
+#: ../inc/customizer/customizer-boneplus.php:76
+msgid "Products/Services Bg Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:89
+#: ../inc/customizer/customizer-boneplus.php:89
+msgid "Products/Services Bg Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:102
+#: ../inc/customizer/customizer-boneplus.php:102
+msgid "Products/Services Image Bg Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:115
+#: ../inc/customizer/customizer-boneplus.php:115
+msgid "Products/Services Image Bg Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:128
+#: ../inc/customizer/customizer-boneplus.php:128
+msgid "Products/Services Name Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:141
+#: ../inc/customizer/customizer-bone.php:94
+#: ../inc/customizer/customizer-boneplus.php:141
+#: ../inc/customizer/customizer-bthree.php:90
+#: ../inc/customizer/customizer-btwo.php:90
+msgid "Products/Services Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:154
+#: ../inc/customizer/customizer-bone.php:108
+#: ../inc/customizer/customizer-boneplus.php:154
+#: ../inc/customizer/customizer-bthree.php:103
+#: ../inc/customizer/customizer-btwo.php:103
+msgid "Products/Services Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:167
+#: ../inc/customizer/customizer-boneplus.php:167
+msgid "Products/Services Item Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:180
+#: ../inc/customizer/customizer-boneplus.php:180
+msgid "Products/Services CTA Container Bg Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:193
+#: ../inc/customizer/customizer-boneplus.php:193
+msgid "Products/Services CTA Container Bg Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:206
+#: ../inc/customizer/customizer-boneplus.php:206
+msgid "Products/Services CTA Bg Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:219
+#: ../inc/customizer/customizer-boneplus.php:219
+msgid "Products/Services CTA Bg Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:232
+#: ../inc/customizer/customizer-boneplus.php:232
+msgid "Products/Services CTA Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:245
+#: ../inc/customizer/customizer-bone.php:136
+#: ../inc/customizer/customizer-boneplus.php:245
+#: ../inc/customizer/customizer-bthree.php:129
+#: ../inc/customizer/customizer-btwo.php:129
+msgid "Quote Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:258
+#: ../inc/customizer/customizer-bone.php:150
+#: ../inc/customizer/customizer-boneplus.php:259
+#: ../inc/customizer/customizer-bthree.php:143
+#: ../inc/customizer/customizer-btwo.php:143
+msgid "Quote Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:272
+#: ../inc/customizer/customizer-bone.php:165
+#: ../inc/customizer/customizer-boneplus.php:274
+#: ../inc/customizer/customizer-bthree.php:158
+#: ../inc/customizer/customizer-btwo.php:158
+msgid "Quote Section Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:285
+#: ../inc/customizer/customizer-bone.php:179
+#: ../inc/customizer/customizer-boneplus.php:288
+#: ../inc/customizer/customizer-bthree.php:172
+#: ../inc/customizer/customizer-btwo.php:172
+msgid "Quote Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:298
+#: ../inc/customizer/customizer-bone.php:193
+#: ../inc/customizer/customizer-boneplus.php:302
+#: ../inc/customizer/customizer-bthree.php:186
+#: ../inc/customizer/customizer-btwo.php:186
+#: ../inc/customizer/customizer-footer-quote.php:55
+msgid "Quote Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:311
+#: ../inc/customizer/customizer-bone.php:208
+#: ../inc/customizer/customizer-boneplus.php:316
+#: ../inc/customizer/customizer-bthree.php:200
+#: ../inc/customizer/customizer-btwo.php:200
+msgid "Client Name Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:324
+#: ../inc/customizer/customizer-bone.php:222
+#: ../inc/customizer/customizer-boneplus.php:330
+#: ../inc/customizer/customizer-bthree.php:214
+#: ../inc/customizer/customizer-btwo.php:214
+msgid "Client Name BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:76
+msgid "Products/Services Section Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:89
+msgid "Testimonial Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:102
+msgid "Testimonial Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:115
+msgid "Testimonial Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:128
+msgid "Testimonial Section Client Name BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:141
+msgid "Testimonial Section Client Name BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:154
+msgid "Testimonial Section Client Name Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:167
+msgid "About Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:180
+msgid "About Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:193
+msgid "About Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:206
+msgid "About Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:219
+msgid "About Section Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:232
+msgid "About Section border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:245
+msgid "Client Logo Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:258
+msgid "Client Logo Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bone.php:24
+msgid "Welcome Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bone.php:80
+#: ../inc/customizer/customizer-bthree.php:77
+#: ../inc/customizer/customizer-btwo.php:77
+msgid "Products/Services Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bone.php:122
+#: ../inc/customizer/customizer-bthree.php:116
+#: ../inc/customizer/customizer-btwo.php:116
+msgid "Products/Services List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bseven.php:25
+msgid "Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bseven.php:38
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bseven.php:51
+msgid "Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bseven.php:64
+msgid "Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:77
+msgid "Welcome Section Button Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:90
+#: ../inc/customizer/customizer-bsix.php:116
+msgid "Welcome Section Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:103
+msgid "Welcome Section Button BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:129
+msgid "Product Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:142
+msgid "Product Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:155
+msgid "Product Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:168
+msgid "Product Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:181
+msgid "Product Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:194
+msgid "Product Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:228
+msgid "Portfolio Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:241
+msgid "Portfolio Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:254
+msgid "Portfolio Heading BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:267
+msgid "Portfolio Heading BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:280
+msgid "Portfolio Heading Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:293
+msgid "Portfolio Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:17
+msgid "Footer Quote Section Color Options"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:28
+msgid "Footer Quote Container Background Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:41
+msgid "Footer Quote Container Background Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:69
+msgid "Quote Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:82
+msgid "Client Name Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:95
+msgid "Client Name Background Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:15
+msgid "Portfolio Page Content Color Options"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:26
+msgid "Portfolio Page Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:39
+msgid "Portfolio Page Welcome Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:52
+msgid "Portfolio Page Welcome Text Top/Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:65
+msgid "Portfolio Page Image BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:78
+msgid "Portfolio Page Image BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:92
+msgid "Portfolio Page Description BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:105
+msgid "Portfolio Page Description BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:119
+msgid "Portfolio Page Description Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:132
+msgid "Portfolio Page Description Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:145
+msgid "Portfolio Page Button Container BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:158
+msgid "Portfolio Page Button Container BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:172
+msgid "Portfolio Page Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:185
+msgid "Portfolio Page Button BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:199
+msgid "Portfolio Page Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:15
+msgid "Post/Page Content Color Options"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:26
+msgid "Post/Page Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:39
+msgid "Post/Page Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:52
+msgid "Post/Page Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:65
+msgid "Accent Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:78
+msgid "Comment Reply Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:91
+msgid "Comment Reply Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:104
+msgid "Comment Form Bg Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:117
+msgid "Comment Form Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:130
+msgid "Comment Form Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:143
+msgid "Comment Form Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:156
+msgid "Comment Form Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:169
+msgid "Widget BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:182
+msgid "Widget BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:195
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:208
+msgid "Widget Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:221
+msgid "Widget Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:234
+msgid "Widget List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:247
+msgid "Widget Search/select Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:260
+msgid "Widget Search/Select BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:273
+msgid "Widget Search Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:286
+msgid "Widget Search Button BG Color"
+msgstr ""
+
+#: ../inc/metabox/init.php:207
+msgid "Clear"
+msgstr ""
+
+#: ../inc/metabox/init.php:208
+msgid "Default"
+msgstr ""
+
+#: ../inc/metabox/init.php:209
+msgid "Select Color"
+msgstr ""
+
+#: ../inc/metabox/init.php:210
+msgid "Current Color"
+msgstr ""
+
+#: ../inc/metabox/init.php:936
+msgid "Save"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_ajax.php:118
+msgid "Remove Embed"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_ajax.php:121
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:139
+msgid "Add Row"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:167
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:459
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:502
+msgid "Remove"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:437
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:475
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:448
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:494
+msgid "Remove Image"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:459
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:502
+msgid "File:"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:459
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:502
+msgid "Download"
+msgstr ""

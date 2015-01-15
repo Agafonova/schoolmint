@@ -1,0 +1,4 @@
+.site-slider{
+	width:100%;
+	background-color:#38bcc3;
+}

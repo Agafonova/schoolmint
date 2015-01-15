@@ -1,0 +1,1637 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeAlley Business\n"
+"POT-Creation-Date: 2014-03-07 13:29+0530\n"
+"PO-Revision-Date: 2014-03-07 13:29+0530\n"
+"Last-Translator: \n"
+"Language-Team: ThemeAlley\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:52
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../archive.php:31 ../index.php:31
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:39 ../index.php:39
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:42 ../index.php:42
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:45 ../index.php:45
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:48 ../index.php:48
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:51 ../index.php:51
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:54 ../index.php:54
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:57 ../index.php:57
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:60 ../index.php:60
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:63 ../index.php:63 ../sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: ../bizsix-welcome.php:12
+msgid "Welcome Headline Comes Here bsix"
+msgstr ""
+
+#: ../bizsix-welcome.php:22
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"six settings tab of theme options page. You can change this text in welcome "
+"text box of welcome section block in Biz six settings tab of theme options "
+"page."
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:20 ../content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-aside.php:23 ../content-page.php:18 ../content-single.php:36
+#: ../content.php:27 ../image.php:60
+msgid "Pages:"
+msgstr ""
+
+#: ../content-aside.php:35 ../content-aside.php:45 ../content-single.php:46
+#: ../content-single.php:49 ../content.php:39 ../content.php:49
+msgid " "
+msgstr ""
+
+#: ../content-aside.php:39 ../content.php:43
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content-aside.php:49 ../content.php:53
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../content-aside.php:60 ../content.php:60
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-aside.php:60 ../content.php:60
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-aside.php:60 ../content.php:60
+msgid "% Comments"
+msgstr ""
+
+#: ../content-aside.php:64 ../content-page.php:23 ../content-single.php:79
+#: ../content.php:64 ../image.php:34 ../image.php:78
+#: ../inc/template-tags.php:71 ../inc/template-tags.php:97
+msgid "Edit"
+msgstr ""
+
+#: ../content-single.php:54 ../content-single.php:62
+#, php-format
+msgid "Tags : %2$s"
+msgstr ""
+
+#: ../content-single.php:54 ../content-single.php:56 ../content-single.php:62
+#: ../content-single.php:64
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>"
+msgstr ""
+
+#: ../content-single.php:62 ../content-single.php:64
+#, php-format
+msgid "Categories : %1$s"
+msgstr ""
+
+#: ../footer-copyright.php:5
+msgid "&copy; All rights reserved."
+msgstr ""
+
+#: ../footer-five.php:51 ../footer-four.php:45 ../footer-one.php:19
+#: ../footer-six.php:94 ../footer-three.php:38 ../footer-two.php:19
+#, php-format
+msgid "Designed by: %1$s."
+msgstr ""
+
+#: ../footer-five.php:53 ../footer-four.php:47 ../footer-one.php:21
+#: ../footer-six.php:94 ../footer-three.php:40 ../footer-two.php:21
+#: ../inc/template-tags.php:87
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:65
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:105
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:113
+msgid "Footer Left Sidebar"
+msgstr ""
+
+#: ../functions.php:122
+msgid "Footer Center Sidebar"
+msgstr ""
+
+#: ../functions.php:131
+msgid "Footer Right Sidebar"
+msgstr ""
+
+#: ../functions.php:140
+msgid "Footer Center Left Sidebar"
+msgstr ""
+
+#: ../functions.php:148
+msgid "Footer Center Right Sidebar"
+msgstr ""
+
+#: ../functions.php:550
+msgid "Select a Menu to appear here in Dashboard->Appearance->Menus "
+msgstr ""
+
+#: ../functions.php:557
+msgid "Home"
+msgstr ""
+
+#: ../header.php:64 ../header.php:86 ../header.php:105
+msgid "Skip to content"
+msgstr ""
+
+#: ../image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../image.php:69
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:71
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:73
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../image.php:75
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../index-beight.php:10 ../index-bfive.php:41
+msgid "Products"
+msgstr ""
+
+#: ../index-beight.php:135 ../index-btwo.php:245
+msgid "Portfolio"
+msgstr ""
+
+#: ../index-beight.php:203 ../index-bfive.php:298
+msgid "News"
+msgstr ""
+
+#: ../index-beight.php:254 ../index-bfive.php:349
+msgid "Read More"
+msgstr ""
+
+#: ../index-bfive.php:13
+msgid "Welcome Headline Comes Here bfive"
+msgstr ""
+
+#: ../index-bfive.php:23
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"Five settings tab of theme options page. You can change this text in welcome "
+"text box of welcome section block in Biz Five settings tab of theme options "
+"page."
+msgstr ""
+
+#: ../index-bfive.php:166
+msgid "Services"
+msgstr ""
+
+#: ../index-bfour.php:11
+msgid "Welcome Headline Comes Here bfour"
+msgstr ""
+
+#: ../index-bfour.php:21
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"Four settings tab of theme options page. You can change this text in welcome "
+"text box of welcome section block in Biz Four settings tab of theme options "
+"page."
+msgstr ""
+
+#: ../index-bone.php:11 ../index-btwo.php:13
+msgid "Welcome Headline Comes Here"
+msgstr ""
+
+#: ../index-bone.php:21 ../index-bseven.php:124
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"one tab of theme options page. You can change this text in welcome text box "
+"of welcome section block in Biz two tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:53
+msgid "Design"
+msgstr ""
+
+#: ../index-bone.php:65
+msgid ""
+"You can change this text in description box of left section block in Biz One "
+"settings tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:92
+msgid "Development"
+msgstr ""
+
+#: ../index-bone.php:103
+msgid ""
+"You can change this text in description box of center section block in Biz "
+"One settings tab of theme options page."
+msgstr ""
+
+#: ../index-bone.php:130
+msgid "Marketing"
+msgstr ""
+
+#: ../index-bone.php:141
+msgid ""
+"You can change this text in description box of right section block in Biz "
+"One settings tab of theme options page."
+msgstr ""
+
+#: ../index-boneplus.php:11
+msgid "Welcome Headline Comes Here BizOnePlus"
+msgstr ""
+
+#: ../index-boneplus.php:21
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"One Plus settings tab of theme options page. You can change this text in "
+"welcome text box of welcome section block in Biz One Plus settings tab of "
+"theme options page."
+msgstr ""
+
+#: ../index-bseven.php:27
+msgid "Our Work"
+msgstr ""
+
+#: ../index-bseven.php:37
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"seven settings tab of theme options page. You can change this text in "
+"welcome text box of welcome section block in Biz seven settings tab of theme "
+"options page."
+msgstr ""
+
+#: ../index-bseven.php:111
+msgid "About Us"
+msgstr ""
+
+#: ../index-bthree.php:11
+msgid "Welcome Headline Comes Here bizthree"
+msgstr ""
+
+#: ../index-bthree.php:21
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"three settings tab of theme options page. You can change this text in "
+"welcome text box of welcome section block in Biz three settings tab of theme "
+"options page."
+msgstr ""
+
+#: ../index-btwo.php:23
+msgid ""
+"You can change this text in welcome text box of welcome section block in Biz "
+"two tab of theme options page. You can change this text in welcome text box "
+"of welcome section block in Biz two tab of theme options page."
+msgstr ""
+
+#: ../no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../portfolio-four.php:76 ../portfolio-one.php:76 ../portfolio-three.php:76
+#: ../portfolio-two.php:76
+msgid "Continue"
+msgstr ""
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:10 ../searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#: ../slider-oneplus.php:39 ../slider-oneplus.php:104
+#: ../slider-oneplus.php:169 ../slider-oneplus.php:234
+#: ../slider-oneplus.php:299 ../slider-oneplus.php:364
+#: ../slider-oneplus.php:429 ../slider-oneplus.php:494
+#: ../slider-oneplus.php:559 ../slider-oneplus.php:624
+msgid "Responsive Business Theme"
+msgstr ""
+
+#: ../inc/customizer.php:23
+msgid "Logo Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:49 ../inc/customizer.php:269
+msgid "Slider Section Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:61 ../inc/customizer.php:281
+msgid "Upload a image as background image"
+msgstr ""
+
+#: ../inc/customizer.php:70 ../inc/customizer.php:290
+msgid "Background Repeat"
+msgstr ""
+
+#: ../inc/customizer.php:75 ../inc/customizer.php:295
+msgid "No Repeat"
+msgstr ""
+
+#: ../inc/customizer.php:76 ../inc/customizer.php:296
+msgid "Tile"
+msgstr ""
+
+#: ../inc/customizer.php:77 ../inc/customizer.php:297
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../inc/customizer.php:78 ../inc/customizer.php:298
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../inc/customizer.php:82 ../inc/customizer.php:302
+msgid "Background Position"
+msgstr ""
+
+#: ../inc/customizer.php:87 ../inc/customizer.php:307
+msgid "Left"
+msgstr ""
+
+#: ../inc/customizer.php:88 ../inc/customizer.php:308
+msgid "Center"
+msgstr ""
+
+#: ../inc/customizer.php:89 ../inc/customizer.php:309
+msgid "Right"
+msgstr ""
+
+#: ../inc/customizer.php:93 ../inc/customizer.php:313
+msgid "Background Attachment"
+msgstr ""
+
+#: ../inc/customizer.php:98 ../inc/customizer.php:318
+msgid "Fixed"
+msgstr ""
+
+#: ../inc/customizer.php:99 ../inc/customizer.php:319
+msgid "Scroll"
+msgstr ""
+
+#: ../inc/customizer.php:114
+msgid "Text logo Color"
+msgstr ""
+
+#: ../inc/customizer.php:128
+msgid "Description/Tagline Color"
+msgstr ""
+
+#: ../inc/customizer.php:141
+msgid "Menu Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:171
+msgid "Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:182
+msgid "Upload a image as Menu background image"
+msgstr ""
+
+#: ../inc/customizer.php:194
+msgid "Menu Dropdown/Active Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:205
+msgid "Menu Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:216
+msgid "Dropdown Hover Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:227
+msgid "Top Border Color, Will be used in mobile view."
+msgstr ""
+
+#: ../inc/customizer.php:239
+msgid "Slider Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:334
+msgid "Slider One Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:348
+msgid "Slider One Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:362
+msgid "Slider One List Item Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:376
+msgid "Slider One Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:390
+msgid "Slider One Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:404
+msgid "Slider One Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:423
+msgid "Video One Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:437
+msgid "Video One Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:451
+msgid "Video One List Item Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:465
+msgid "Video One Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:479
+msgid "Video One Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:493
+msgid "Video One Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:513
+msgid "Slider OnePlus Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:527
+msgid "Slider OnePlus Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:541
+msgid "Slider OnePlus List Item Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:555
+msgid "Slider OnePlus Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:569
+msgid "Slider OnePlus Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:583
+msgid "Slider OnePlus Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:602
+msgid "Slider Two Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:616
+msgid "Slider Two Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:630
+msgid "Slider Two List Item Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:644
+msgid "Slider Two Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:658
+msgid "Slider Two Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:672
+msgid "Slider Two Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:691
+msgid "SlitSlider Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:705
+msgid "SlitSlider Title Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:719
+msgid "SlitSlider Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:733
+msgid "SlitSlider Description Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:747
+msgid "SlitSlider Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:761
+msgid "SlitSlider Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:775
+msgid "SlitSlider Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:794
+msgid "fractionslider Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:808
+msgid "fractionslider Title Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:822
+msgid "fractionslider Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:836
+msgid "fractionslider Description Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:850
+msgid "fractionslider Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:864
+msgid "fractionslider Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:878
+msgid "fractionslider Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:897
+msgid "Hero Slider Welcome Heading Color"
+msgstr ""
+
+#: ../inc/customizer.php:911
+msgid "Hero Slider Welcome Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:925
+msgid "Upload a image as left slide background image"
+msgstr ""
+
+#: ../inc/customizer.php:940
+msgid "Upload a image as center slide background image"
+msgstr ""
+
+#: ../inc/customizer.php:955 ../inc/customizer.php:1054
+msgid "Upload a image as right slide background image"
+msgstr ""
+
+#: ../inc/customizer.php:970
+msgid "heroslider Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:984
+msgid "heroslider Description Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:998 ../inc/customizer.php:1097
+msgid "heroslider Button Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1012 ../inc/customizer.php:1111
+msgid "heroslider Button Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:1026 ../inc/customizer.php:1125
+msgid "heroslider Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:1040
+msgid "Heroslider pitch container BG color"
+msgstr ""
+
+#: ../inc/customizer.php:1069
+msgid "Heroslider pitch title color"
+msgstr ""
+
+#: ../inc/customizer.php:1083
+msgid "Heroslider pitch text color"
+msgstr ""
+
+#: ../inc/customizer.php:1139
+msgid "Main Content Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:1152
+msgid "Outer Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1166
+msgid "Outer Background Image"
+msgstr ""
+
+#: ../inc/customizer.php:1183
+msgid "Main Content Section Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1197
+msgid "Main Content Section Background Image"
+msgstr ""
+
+#: ../inc/customizer.php:1249
+msgid "Footer Client Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:1261
+msgid "Footer Client Section Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1275
+msgid "Upload a image as Footer Client Section background image"
+msgstr ""
+
+#: ../inc/customizer.php:1287
+msgid "Social Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:1299
+msgid "Footer Social Section Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1313
+msgid "Upload a image as Social Section background image"
+msgstr ""
+
+#: ../inc/customizer.php:1324
+msgid "Footer Map Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:1336
+msgid "Footer Map Section Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1350
+msgid "Upload a image as Footer Map Section background image"
+msgstr ""
+
+#: ../inc/customizer.php:1365
+msgid "Footer Map Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1375
+msgid "Footer Widget Section Color Options"
+msgstr ""
+
+#: ../inc/customizer.php:1386
+msgid "Footer Widget Heading Color"
+msgstr ""
+
+#: ../inc/customizer.php:1400
+msgid "Footer Widget Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1414
+msgid "Footer Widget Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:1428
+msgid "Footer Widget List Item Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:1442
+msgid "Footer Widget Select Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1456
+msgid "Footer Widget Select BG Color"
+msgstr ""
+
+#: ../inc/customizer.php:1470
+msgid "Footer Widget Search Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1484
+msgid "Footer Widget Search BG Color"
+msgstr ""
+
+#: ../inc/customizer.php:1498
+msgid "Footer Widget Search Button Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:1512
+msgid "Footer Widget Search Button BG Color"
+msgstr ""
+
+#: ../inc/customizer.php:1526
+msgid "Footer Widget Section BG Color"
+msgstr ""
+
+#: ../inc/customizer.php:1540
+msgid "Footer Widget Section BG Image"
+msgstr ""
+
+#: ../inc/extras.php:66
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:44
+msgid "Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:48
+msgid "Newer posts"
+msgstr ""
+
+#: ../inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:92
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:101
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:187
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:195
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:24
+msgid "Left Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:37
+msgid "Left Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:50
+msgid "Left Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:63
+msgid "Left Section Welcome Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:76
+msgid "Left Section Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:89
+msgid "Left Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:102
+msgid "Left Section Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:115
+msgid "Left Section List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:128
+msgid "Center Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:141
+msgid "Center Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:154
+msgid "Center Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:167
+msgid "Right Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:180
+msgid "Right Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:193
+msgid "Right Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:206
+msgid "Right Section News/Blog Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:219
+msgid "Right Section News/Blog Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:232
+msgid "Right Section Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:245
+msgid "Right Section Button BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-beight.php:258
+msgid "Right Section Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:24
+#: ../inc/customizer/customizer-bsix.php:25
+msgid "Welcome Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:38
+#: ../inc/customizer/customizer-bsix.php:38
+msgid "Welcome Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:51
+#: ../inc/customizer/customizer-bsix.php:51
+msgid "Welcome Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:64
+#: ../inc/customizer/customizer-bsix.php:64
+msgid "Welcome Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:77
+msgid "Welcome Section Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:90
+msgid "Welcome Section List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:103
+#: ../inc/customizer/customizer-bnine.php:24
+msgid "Products/Services Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:117
+#: ../inc/customizer/customizer-bnine.php:37
+msgid "Products/Services Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:130
+#: ../inc/customizer/customizer-bnine.php:50
+msgid "Products/Services Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:143
+#: ../inc/customizer/customizer-bnine.php:63
+msgid "Products/Services Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:156
+msgid "Products/ServicesSection Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:169
+msgid "Products/Services Section List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:182
+msgid "News Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:195
+msgid "News Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:208
+msgid "News Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:221
+msgid "News Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:234
+msgid "News Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:247
+msgid "News Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:260
+msgid "News Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:273
+msgid "Testimonial BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:286
+msgid "Testimonial Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:299
+msgid "Testimonial Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:312
+msgid "Testimonial Button Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:325
+msgid "Testimonial Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfive.php:338
+msgid "Testimonial Button BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:24
+#: ../inc/customizer/customizer-boneplus.php:24
+#: ../inc/customizer/customizer-bthree.php:24
+#: ../inc/customizer/customizer-btwo.php:24
+msgid "Welcome Headline Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:37
+#: ../inc/customizer/customizer-bone.php:38
+#: ../inc/customizer/customizer-boneplus.php:37
+#: ../inc/customizer/customizer-bthree.php:37
+#: ../inc/customizer/customizer-btwo.php:37
+msgid "Welcome Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:50
+#: ../inc/customizer/customizer-bone.php:52
+#: ../inc/customizer/customizer-boneplus.php:50
+#: ../inc/customizer/customizer-bthree.php:50
+#: ../inc/customizer/customizer-btwo.php:50
+msgid "Welcome Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:63
+#: ../inc/customizer/customizer-bone.php:66
+#: ../inc/customizer/customizer-boneplus.php:63
+#: ../inc/customizer/customizer-bthree.php:63
+#: ../inc/customizer/customizer-btwo.php:63
+msgid "Welcome List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:76
+#: ../inc/customizer/customizer-boneplus.php:76
+msgid "Products/Services Bg Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:89
+#: ../inc/customizer/customizer-boneplus.php:89
+msgid "Products/Services Bg Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:102
+#: ../inc/customizer/customizer-boneplus.php:102
+msgid "Products/Services Image Bg Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:115
+#: ../inc/customizer/customizer-boneplus.php:115
+msgid "Products/Services Image Bg Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:128
+#: ../inc/customizer/customizer-boneplus.php:128
+msgid "Products/Services Name Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:141
+#: ../inc/customizer/customizer-bone.php:94
+#: ../inc/customizer/customizer-boneplus.php:141
+#: ../inc/customizer/customizer-bthree.php:90
+#: ../inc/customizer/customizer-btwo.php:90
+msgid "Products/Services Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:154
+#: ../inc/customizer/customizer-bone.php:108
+#: ../inc/customizer/customizer-boneplus.php:154
+#: ../inc/customizer/customizer-bthree.php:103
+#: ../inc/customizer/customizer-btwo.php:103
+msgid "Products/Services Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:167
+#: ../inc/customizer/customizer-boneplus.php:167
+msgid "Products/Services Item Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:180
+#: ../inc/customizer/customizer-boneplus.php:180
+msgid "Products/Services CTA Container Bg Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:193
+#: ../inc/customizer/customizer-boneplus.php:193
+msgid "Products/Services CTA Container Bg Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:206
+#: ../inc/customizer/customizer-boneplus.php:206
+msgid "Products/Services CTA Bg Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:219
+#: ../inc/customizer/customizer-boneplus.php:219
+msgid "Products/Services CTA Bg Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:232
+#: ../inc/customizer/customizer-boneplus.php:232
+msgid "Products/Services CTA Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:245
+#: ../inc/customizer/customizer-bone.php:136
+#: ../inc/customizer/customizer-boneplus.php:245
+#: ../inc/customizer/customizer-bthree.php:129
+#: ../inc/customizer/customizer-btwo.php:129
+msgid "Quote Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:258
+#: ../inc/customizer/customizer-bone.php:150
+#: ../inc/customizer/customizer-boneplus.php:259
+#: ../inc/customizer/customizer-bthree.php:143
+#: ../inc/customizer/customizer-btwo.php:143
+msgid "Quote Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:272
+#: ../inc/customizer/customizer-bone.php:165
+#: ../inc/customizer/customizer-boneplus.php:274
+#: ../inc/customizer/customizer-bthree.php:158
+#: ../inc/customizer/customizer-btwo.php:158
+msgid "Quote Section Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:285
+#: ../inc/customizer/customizer-bone.php:179
+#: ../inc/customizer/customizer-boneplus.php:288
+#: ../inc/customizer/customizer-bthree.php:172
+#: ../inc/customizer/customizer-btwo.php:172
+msgid "Quote Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:298
+#: ../inc/customizer/customizer-bone.php:193
+#: ../inc/customizer/customizer-boneplus.php:302
+#: ../inc/customizer/customizer-bthree.php:186
+#: ../inc/customizer/customizer-btwo.php:186
+#: ../inc/customizer/customizer-footer-quote.php:55
+msgid "Quote Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:311
+#: ../inc/customizer/customizer-bone.php:208
+#: ../inc/customizer/customizer-boneplus.php:316
+#: ../inc/customizer/customizer-bthree.php:200
+#: ../inc/customizer/customizer-btwo.php:200
+msgid "Client Name Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bfour.php:324
+#: ../inc/customizer/customizer-bone.php:222
+#: ../inc/customizer/customizer-boneplus.php:330
+#: ../inc/customizer/customizer-bthree.php:214
+#: ../inc/customizer/customizer-btwo.php:214
+msgid "Client Name BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:76
+msgid "Products/Services Section Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:89
+msgid "Testimonial Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:102
+msgid "Testimonial Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:115
+msgid "Testimonial Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:128
+msgid "Testimonial Section Client Name BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:141
+msgid "Testimonial Section Client Name BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:154
+msgid "Testimonial Section Client Name Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:167
+msgid "About Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:180
+msgid "About Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:193
+msgid "About Section Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:206
+msgid "About Section Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:219
+msgid "About Section Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:232
+msgid "About Section border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:245
+msgid "Client Logo Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bnine.php:258
+msgid "Client Logo Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bone.php:24
+msgid "Welcome Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bone.php:80
+#: ../inc/customizer/customizer-bthree.php:77
+#: ../inc/customizer/customizer-btwo.php:77
+msgid "Products/Services Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bone.php:122
+#: ../inc/customizer/customizer-bthree.php:116
+#: ../inc/customizer/customizer-btwo.php:116
+msgid "Products/Services List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bseven.php:25
+msgid "Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bseven.php:38
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bseven.php:51
+msgid "Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bseven.php:64
+msgid "Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:77
+msgid "Welcome Section Button Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:90
+#: ../inc/customizer/customizer-bsix.php:116
+msgid "Welcome Section Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:103
+msgid "Welcome Section Button BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:129
+msgid "Product Heading Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:142
+msgid "Product Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:155
+msgid "Product Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:168
+msgid "Product Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:181
+msgid "Product Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-bsix.php:194
+msgid "Product Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:228
+msgid "Portfolio Section BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:241
+msgid "Portfolio Section BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:254
+msgid "Portfolio Heading BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:267
+msgid "Portfolio Heading BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:280
+msgid "Portfolio Heading Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-btwo.php:293
+msgid "Portfolio Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:17
+msgid "Footer Quote Section Color Options"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:28
+msgid "Footer Quote Container Background Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:41
+msgid "Footer Quote Container Background Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:69
+msgid "Quote Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:82
+msgid "Client Name Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-footer-quote.php:95
+msgid "Client Name Background Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:15
+msgid "Portfolio Page Content Color Options"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:26
+msgid "Portfolio Page Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:39
+msgid "Portfolio Page Welcome Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:52
+msgid "Portfolio Page Welcome Text Top/Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:65
+msgid "Portfolio Page Image BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:78
+msgid "Portfolio Page Image BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:92
+msgid "Portfolio Page Description BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:105
+msgid "Portfolio Page Description BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:119
+msgid "Portfolio Page Description Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:132
+msgid "Portfolio Page Description Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:145
+msgid "Portfolio Page Button Container BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:158
+msgid "Portfolio Page Button Container BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:172
+msgid "Portfolio Page Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:185
+msgid "Portfolio Page Button BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-portfolio.php:199
+msgid "Portfolio Page Button Text/Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:15
+msgid "Post/Page Content Color Options"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:26
+msgid "Post/Page Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:39
+msgid "Post/Page Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:52
+msgid "Post/Page Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:65
+msgid "Accent Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:78
+msgid "Comment Reply Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:91
+msgid "Comment Reply Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:104
+msgid "Comment Form Bg Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:117
+msgid "Comment Form Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:130
+msgid "Comment Form Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:143
+msgid "Comment Form Button BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:156
+msgid "Comment Form Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:169
+msgid "Widget BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:182
+msgid "Widget BG Image"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:195
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:208
+msgid "Widget Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:221
+msgid "Widget Link Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:234
+msgid "Widget List Border Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:247
+msgid "Widget Search/select Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:260
+msgid "Widget Search/Select BG Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:273
+msgid "Widget Search Button Text Color"
+msgstr ""
+
+#: ../inc/customizer/customizer-post.php:286
+msgid "Widget Search Button BG Color"
+msgstr ""
+
+#: ../inc/metabox/init.php:207
+msgid "Clear"
+msgstr ""
+
+#: ../inc/metabox/init.php:208
+msgid "Default"
+msgstr ""
+
+#: ../inc/metabox/init.php:209
+msgid "Select Color"
+msgstr ""
+
+#: ../inc/metabox/init.php:210
+msgid "Current Color"
+msgstr ""
+
+#: ../inc/metabox/init.php:936
+msgid "Save"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_ajax.php:118
+msgid "Remove Embed"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_ajax.php:121
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:139
+msgid "Add Row"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:167
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:459
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:502
+msgid "Remove"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:437
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:475
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:448
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:494
+msgid "Remove Image"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:459
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:502
+msgid "File:"
+msgstr ""
+
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:459
+#: ../inc/metabox/helpers/cmb_Meta_Box_types.php:502
+msgid "Download"
+msgstr ""

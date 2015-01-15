@@ -1,0 +1,127 @@
+
+/* SLIDER STYLES */
+	
+.fractionslider-wrapper{
+	position:relative;
+	overflow:hidden;
+	width:100%;
+}
+
+.fractionslider{
+	position:relative;
+	width:100%; 
+/*	height:400px; when responsive, comment this out */
+	margin:0 auto;
+}
+
+/* ELEMENT STYLES */
+
+.fractionslider p{
+	position:absolute;
+	top:-200px;
+	z-index:8000;
+	padding:1% 3%;
+	font-size:24px;
+	line-height:100%;
+	color:#fff;
+	margin-bottom:0;
+}
+
+.fractionslider .claim{
+	line-height:100%;
+}	
+
+.fractionslider .teaser{
+	padding:0.5% 1.5% 1% 1.5%;
+	font-size:16px;
+	line-height:100%;
+	background:rgba(0,0,0,0.40);
+}
+
+.fractionslider .small{
+	width:250px;
+    padding-left:0; padding-right:0px;
+	text-align:center;
+}
+
+.fractionslider .medium{
+	width:450px;
+   	padding: 0.5% 1.5% 1% 1.5%;
+	text-align:left;
+	line-height:1.2;	
+}
+
+.fractionslider .mediumsmall{
+	width:350px;
+   	padding: 0.5% 1.5% 1% 1.5%;
+	text-align:left;
+	line-height:1.2;
+}
+
+.fractionslider .middle{
+	width:1000px;
+	text-align:center;
+	margin:0 auto;
+}
+
+.fractionslider .middle span{
+	background:rgba(0,0,0,0.70);
+	padding: 1% 2%;
+	display:inline-block;
+}
+
+.fractionslider .middle2{
+	width:1000px;
+	text-align:center;
+	margin:0 auto;
+}
+
+.fractionslider .middle2 span{
+	background:rgba(0,0,0,0.70);
+	padding: 1% 2%;
+	display:inline-block;
+	font-size:16px;
+	font-size:1.6rem;
+}
+
+.fractionslider .middle-caption{
+	width:1000px;
+	text-align:center;
+	padding:10px 75px;
+	display:none;
+}
+
+.fractionslider .middle-caption span{
+	display:none;
+	font-size:16px;
+	font-size:1.6rem;
+}
+
+.fractionslider .button{
+   	padding: 1.0% 3.0%;
+	text-align:left;
+    background:#333437;
+    border-bottom: 4px solid #000000;
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
+	font-size:18px;
+    font-size: 1.8rem;
+    line-height: 1;
+	text-transform:none;
+}
+
+.fractionslider .light-green{background:#95C542;}
+.fractionslider .green{background:#7CB761}
+.fractionslider .orange{background:#EF7D00}
+.fractionslider .turky{background:#348E8A}
+.fractionslider .white{background:#fff; color:#333}
+.fractionslider .brown{background:#333437;}
+
+.fractionslider a{color:#fff;}
+
+@media screen 
+and (min-width : 901px) {
+.fractionslider .middle-caption span{
+	display:inline-block;
+}
+}

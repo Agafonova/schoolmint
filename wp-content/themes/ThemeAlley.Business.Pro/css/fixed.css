@@ -1,0 +1,645 @@
+/* Fixed Rules
+----------------------------------------------- */
+
+
+.responsive-container{
+	max-width:1200px;
+	margin:0 auto;
+}
+
+/* Logo Section */
+.site-header-half-width-logo{
+	width:38%;
+	margin:1.5% 3%;
+	float:left;	
+}
+.site-header-half-width-logo .site-title, .site-header-half-width-logo .site-description{
+	text-align:left;
+}
+.site-branding{
+	padding:3% 0;
+}
+.site-header-half-width-logo .site-branding{
+	text-align:left;
+}
+.site-header-half-width-nav{
+	width:50%;
+	float:left;
+	margin:5% 3% 3.5% 3%;
+	border-top:0;
+}
+
+/* Nav */
+.main-navigation {
+	padding:1.5% 0;
+}
+.tinynav { display: none }
+#main-nav { display: block }
+
+/* Header One */
+.site-slider-slider-one-image{
+	float:left;
+	width:50%;
+	margin:0;
+}
+.site-slider-slider-one-text{
+	float:left;
+	width:46%;
+	margin:0 2%;	
+}
+.site-slider-slider-one-text-heading{
+	text-align:left;
+}
+.site-slider-slider-one-text-description{
+	text-align:left;
+}
+.site-slider-slider-one-text-button{
+	text-align:left;	
+}
+
+/* Header OnePlus */
+.site-slider-slider-oneplus-image{
+	float:left;
+	width:50%;
+	margin:0;
+}
+.site-slider-slider-oneplus-text{
+	float:left;
+	width:46%;
+	margin:0 2%;	
+}
+.site-slider-slider-oneplus-text-heading{
+	text-align:left;
+	padding:0 0 40px 0;
+}
+.site-slider-slider-oneplus-text-description{
+	text-align:left;
+}
+.site-slider-slider-oneplus-text-button{
+	text-align:left;	
+}
+
+/* Video One */
+.site-slider-slider-video-one-video{
+	float:left;
+	width:60%;
+	margin:0;
+}
+.site-slider-slider-video-one-video-cont{
+	width:84%;
+	margin:0 7%;	
+}
+.site-slider-slider-video-one-text{
+	float:left;
+	width:36%;
+	margin:0 2%;	
+}
+.site-slider-slider-video-one-text-heading{
+	text-align:left;
+	padding:0 0 40px 0;
+}
+.site-slider-slider-video-one-text-description{
+	text-align:left;
+}
+.site-slider-slider-video-one-text-button{
+	text-align:left;	
+}
+
+/* Slider Two */
+.site-slider-slider-two-video{
+	float:left;
+	width:60%;
+	margin:0;
+}
+.site-slider-slider-two-video-cont{
+	width:84%;
+	margin:0 7%;	
+}
+.site-slider-slider-two-text{
+	float:left;
+	width:36%;
+	margin:0 2%;	
+}
+.site-slider-slider-two-text-heading{
+	padding:0 0 40px 0;
+	text-align:left;
+}
+.site-slider-slider-two-text-description{
+	text-align:left;
+}
+.site-slider-slider-two-text-button{
+	text-align:left;	
+}
+/* SlitSlider */
+.sl-slider h2 {
+	font-size:48px;
+	font-size:4.8rem;	
+}
+
+.sl-slider blockquote p{
+	font-size:20px;
+	font-size:2.0rem;
+	display:block;	
+}
+
+.sl-slider blockquote cite {
+	font-size:24px;
+	font-size:2.4rem;
+}
+.sl-slider blockquote cite a{
+	font-size:24px;
+	font-size:2.4rem;
+}
+/* Fraction SLider */
+
+/* Hero Header */
+.hero-heading-container{
+	padding:4% 0 1% 0;
+}
+.hero-heading{
+	font-size:60px;
+	font-size:6.0rem;
+}
+.fractionslider-wrapper-cont{
+	width:100%;
+	display:block;
+}
+.fractionslider-wrapper-backup-cont{
+	display:none;
+}
+.hero-pitch-container{
+	padding:2% 0;
+}
+.hero-pitch-text{
+	width:47%;
+	padding:0 5% 0 8%;
+	text-align:left;
+}
+.hero-pitch-text h2{
+	color:#000;
+	font-size:40px;
+	font-size:4.0rem;	
+}
+.hero-pitch-button{
+	width:35%;
+	padding:0 5% 0 0;
+	text-align:left;
+}
+.hero-pitch-button p a{
+	font-size:24px;
+	font-size:2.4rem;
+    padding: 15px 50px;
+	margin:2% 0 0 0;
+}
+.hero-pitch-button p a:after{
+	font-size:24px;
+	font-size:2.4rem;
+	margin:0 0 0 10px;	
+}
+.hero-pitch-button p span{
+	font-size:24px;
+	font-size:2.4rem;
+    padding: 15px 50px;
+	margin:2% 0 0 0;
+}
+.hero-pitch-button p span:after{
+	font-size:24px;
+	font-size:2.4rem;
+	margin:0 0 0 10px;	
+}
+/* Content */
+.content-area{
+	width:60%;
+	margin:2% 4% 2% 2%;
+	float:left;
+}
+.site-content{
+	width:100%;
+	margin:0;	
+}
+
+/* Page-Post Navigation */
+.paging-navigation .nav-previous{
+	width:50%;
+	margin:0;	
+}
+.paging-navigation .nav-next{
+	width:50%;
+	margin:0;	
+}
+.post-navigation .nav-previous{
+	width:50%;
+}
+.post-navigation .nav-next{
+	width:50%;
+}
+
+/* Widgets */
+.widget-area{
+	width:32%;
+	margin:2% 2% 2% 0;	
+	float:left;
+}
+
+/* Biz One */
+.biz0ne-welcome h1{
+	font-size:50px;
+	font-size:5.0rem;
+}
+.biz0ne-products-services-item{
+	float:left;
+	width:33.33%;	
+	margin:0;
+}
+.biz0ne-quote{
+	margin:0 auto 2% auto;
+}
+
+/* Biz One Plus*/
+.biz0neplus-welcome h1{
+	font-size:50px;
+	font-size:5.0rem;
+}
+.biz0neplus-products-services-item{
+	float:left;
+	width:30.33%;	
+	margin:0 1.5% 3% 1.5%;
+}
+.biz0neplus-products-services-cta{
+	text-align:left;
+}
+.biz0neplus-quote{
+	margin:0 auto 2% auto;
+}
+
+/* Biz Two */
+.biztwo-products-container{
+	float:left;
+	width:66%;	
+}
+.biztwo-welcome h1{
+	text-align:left;
+}
+.biztwo-products-services-img{
+	float:left;
+	width:40%;
+}
+.biztwo-products-services-content{
+	float:left;
+	width:60%;	
+}
+.biztwo-portfolio-container{
+	float:left;
+	width:34%;	
+}
+
+/* BizThree Section */
+.bizthree-welcome h1{
+	font-size:50px;
+	font-size:5.0rem;
+}
+.bizthree-products-services-item{
+	float:left;
+	width:29.33%;	
+	margin:0 2% 3% 2%;
+}
+.bizthree-products-services-cta{
+	text-align:left;
+}
+.bizthree-quote{
+	margin:0 auto 2% auto;
+}
+.bizthree-products-services-divider{
+	margin:0 10% 4% 10%;
+	display:block;
+}
+
+/* Biz Four*/
+.bizfour-welcome h1{
+	font-size:50px;
+	font-size:5.0rem;
+}
+.bizfour-products-services-item{
+	float:left;
+	width:22.5%;	
+	margin:0 1.25% 3% 1.25%;
+}
+.bizfour-products-services-cta{
+	text-align:left;
+}
+.bizfour-quote{
+	margin:0 auto 2% auto;
+}
+/* BizFive Section */
+.bizfive-content-cont{
+	width:61%;
+	margin:0 3% 3% 3%;
+}
+.bizfive-blog-cont{
+	width:30%;
+	margin:0 3% 3% 0;
+}
+.bizfive-products{
+	width:47%;
+	margin:0 6% 5% 0;
+}
+.bizfive-services{
+	width:47%;
+	margin:0 0 5% 0;
+}
+/* BizSix Section */
+.bizsix-welcome{
+	padding:5% 7% 5% 7%;
+}
+.bizsix-welcome h1{
+	font-size:50px;
+	font-size:5.0rem;
+}
+.bizsix-welcome-cta-container span{
+	font-size:24px;
+	font-size:2.4rem;
+	border-bottom: 4px solid #000000;
+    padding: 15px 50px;
+	line-height:1.0;
+	margin:0 1em 0.5em 0;
+}
+.bizsix-products-item-image{
+	float:left;
+	width:40%;
+	margin:0 2.5%;
+}
+.bizsix-products-item-description{
+	float:left;
+	width:50%;
+	margin:0 2.5%;
+}
+.bizsix-image-align-left{
+	text-align:left;
+}
+.bizsix-image-align-right{
+	text-align:right;
+}
+.bizsix-quote{
+	margin:5% 7%;
+}
+.bizsix-quote-text p{
+	font-size:24px;
+	font-size:2.4rem;
+}
+/* bizseven Section */
+.bizseven-welcome{
+	margin:2% 7% 5% 7%;
+}
+.bizseven-welcome h1{
+	font-size:50px;
+	font-size:5.0rem;
+}
+.bizseven-work{
+	width:86%;
+	margin:0 7% 5% 7%;	
+}
+.bizseven-work-intro{
+	width:100%;
+	padding:0 0 5% 0;	
+}
+.bizseven-work-intro h1{
+	width:100%;
+	text-align:left;
+	padding:0 0 20px 0;
+	font-size:48px;
+	font-size:4.8rem;
+	font-family:'TitilliumText22LMedium', sans-serif;	
+}
+.bizseven-work-items{
+	width:100%;
+	padding:0 0 0 0;	
+}
+.da-thumbs li {
+	width:25%;
+}
+.bizeight-da-thumbs li {
+	width:50%;
+}
+.bizseven-about{
+	width:86%;
+	margin:0 7% 5% 7%;
+}
+.bizseven-about-title{
+	width:100%;
+	padding:0 0 0 0;	
+}
+.bizseven-welcome h1{
+	width:100%;
+	text-align:left;
+	padding:0 0 20px 0;
+	font-size:48px;
+	font-size:4.8rem;
+	font-family:'TitilliumText22LMedium', sans-serif;
+}
+.bizseven-work-intro-desc{
+	padding:0 0 2% 0;	
+}
+.bizseven-about-content{
+	width:100%;
+	padding:0 0 0 0;
+}
+/* bizeight Section  */
+.bizeight-welcome{
+	width:30%;
+	float:left;
+	overflow:auto;
+	margin:0 1.66% 0 1.66%;
+	padding:2% 0;
+	background:#E4E6E7;
+}
+.bizeight-clients{
+	width:30%;
+	float:left;
+	overflow:auto;
+	margin:0 1.66% 0 1.66%;
+	padding:2% 0;
+	background:#E4E6E7;
+}
+.bizeight-blog{
+	width:30%;
+	float:left;
+	overflow:auto;
+	margin:0 1.66% 0 1.66%;
+	padding:2% 0;
+	background:#E4E6E7;
+}
+/* MagNine */
+.biznine-products-item{
+	width:33.33%;
+	float:left;
+	padding:3% 0 0 0;
+}
+.biznine-products-item-x-y{
+	background:url(images/b10.png) bottom repeat-x;
+	background:url(images/b10.png) bottom repeat-x, url(images/v10.png) right repeat-y;
+}
+.biznine-products-item-title{
+	min-height:65px;	
+}
+.biznine-products-item-desc{
+	min-height:120px;	
+}
+.biznine-clients{
+	padding:2% 0;
+}
+
+/* Portfolio one */
+.portfolio-one-item-image{
+	float:left;
+	width:45%;
+	margin:0 5% 0 0;
+}
+.portfolio-one-item-desc-title{
+	width:86%;
+	line-height:1.15;
+	margin:0 7% 5% 7%;
+	font-size:40px;
+	font-size:4.0rem;
+}
+.portfolio-one-item-desc{
+	float:left;
+	width:50%;	
+}
+/* Portfolio two */
+.portfolio-two-item-odd{
+	clear:both;
+	float:left;
+	width:48%;
+	padding:0;
+	overflow:auto;
+	margin: 0 4% 5% 0;
+}
+.portfolio-two-item-even{
+	float:left;
+	width:48%;
+	padding:0;
+	overflow:auto;
+	margin: 0 0 5% 0;
+}
+.portfolio-two-item-desc-title{
+	width:86%;
+	line-height:1.15;
+	margin:0 7% 5% 7%;
+	font-size:40px;
+	font-size:4.0rem;
+}
+/* Portfolio three */
+.portfolio-three-item-odd{
+	float:left;
+	width:30%;
+	padding:0;
+	overflow:auto;
+	margin: 0 5% 5% 0;
+}
+.portfolio-three-item-even{
+	float:left;
+	width:30%;
+	padding:0;
+	overflow:auto;
+	margin: 0 0 5% 0;
+}
+.portfolio-three-item-desc-title{
+	width:86%;
+	line-height:1.15;
+	margin:0 7% 5% 7%;
+	font-size:32px;
+	font-size:3.2rem;
+}
+
+/* Portfolio four */
+.portfolio-four-item-odd{
+	float:left;
+	width:22%;
+	padding:0;
+	overflow:auto;
+	margin: 0 4% 5% 0;
+}
+.portfolio-four-item-even{
+	float:left;
+	width:22%;
+	padding:0;
+	overflow:auto;
+	margin: 0 0 5% 0;
+}
+.portfolio-four-item-desc-title{
+	width:86%;
+	line-height:1.15;
+	margin:0 7% 5% 7%;
+	font-size:32px;
+	font-size:3.2rem;
+}
+
+/* Client logo Section */
+.footer-client-logos li{
+	width:18%;
+	margin:2% 0;
+}
+
+/* Footer */
+.site-info{
+	width:40%;
+	padding:5% 0;
+}
+.site-info h3{
+	text-align:left;
+}
+.site-info h3 a{
+	color:#515254;
+}
+.site-info p{
+	text-align:left;
+}
+.footer-search{
+	width:64%;
+	margin:20px 8% 5px 8%;	
+}
+.footer-logo{
+	width:86%;
+	margin:0 7% 0 7%;
+	text-align:left;	
+}
+
+/* Footer Widgets */
+.footer-widget-two{
+	width:30%;
+	padding:5% 0;
+}
+.footer-widget-three{
+	width:20%;
+	padding:5% 0;
+}
+.footer-three-container{
+	width:86%;
+	margin:0 7%;
+}
+.site-info-three .footer-search{
+	width:40%;
+	margin:20px 30% 5px 30%;	
+}
+.footer-widget-four{
+	width:20%;
+	padding:5% 2.5%;
+}
+.footer-widget-fourmap{
+    padding:5% 2.5%;
+    width:45%;
+}
+.footer-six-map-container{
+	width:60%;
+	padding:5% 2.5%;
+}
+.footer-six-address{
+	width:30%;
+	padding:5% 2.5%;
+}
+.footer-six-address h3{
+	text-align:left;
+}
+.footer-six-address-address{
+	text-align:left;
+}

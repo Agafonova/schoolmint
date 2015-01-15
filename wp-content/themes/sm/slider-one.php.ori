@@ -1,0 +1,54 @@
+    <div id="feature" class="site-slider">
+    
+    	<div class="responsive-container"> 
+        
+        	<div class="site-slider-slider-one">
+Hello            
+            	<div class="site-slider-slider-one-image">
+
+                
+					<?php
+						if( of_get_option('slider_one_image') ){
+						 echo '<img class="" src="'.esc_url( of_get_option('slider_one_image') ).'" />'; 
+						}
+					?>                 
+                
+                </div><!-- .site-slider-slider-one-image -->
+                
+            	<div class="site-slider-slider-one-text">
+                
+                	<?php if( of_get_option('slider_one_headline') ): ?>
+                	<h1 class="site-slider-slider-one-text-heading">
+						<?php echo esc_html( of_get_option('slider_one_headline') ); ?>                      
+                    </h1>
+                    <?php endif; ?>
+                    
+                    <?php if( of_get_option('slider_one_text') ): ?>
+                    <div class="site-slider-slider-one-text-description">
+						<?php echo of_get_option('slider_one_text'); ?>                     
+                    </div>
+                    <?php endif; ?>
+                    
+                    <?php if( of_get_option('slider_one_cta') ): ?>
+                    <?php if( of_get_option('slider_one_cta_link') ): ?>
+                    <div class="site-slider-slider-one-text-button">
+                        <a href="<?php echo esc_url( of_get_option('slider_one_cta_link') ); ?>">
+							<?php echo esc_attr( of_get_option('slider_one_cta') ); ?>
+                        </a>                    
+                    </div>
+                    <?php else : ?>
+                    <div class="site-slider-slider-one-text-button">
+                        <span>
+							<?php echo esc_attr( of_get_option('slider_one_cta') ); ?>
+                        </span>                    
+                    </div>                    
+                    <?php endif; ?>
+                    <?php endif; ?>
+                
+                </div><!-- .site-slider-slider-one-text -->                
+
+    		</div><!-- .site-slider-slider-one -->
+        
+    	</div><!-- #Responsive-Container -->           
+    
+    </div><!-- #banner -->
