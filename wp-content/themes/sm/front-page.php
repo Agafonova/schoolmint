@@ -23,12 +23,9 @@ get_header(); ?>
 						  <div class="modal-dialog modal-lg">
 						    <div class="modal-content">
 						    	<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-					    	  <!-- <div class="modal-header">
-						        
-						      </div> -->
 						      <div class="modal-body">
-					                <iframe width="100%" height="450" src="//www.youtube.com/embed/rs43uNelytw?&amp;showinfo=0&amp;controls=0&amp;rel=0&amp;enablejsapi=1" frameborder="0" allowfullscreen></iframe>
-					              </div>
+				                <iframe width="100%" height="450" src="//www.youtube.com/embed/rs43uNelytw?&amp;showinfo=0&amp;controls=0&amp;rel=0&amp;enablejsapi=1" frameborder="0" allowfullscreen></iframe>
+				              </div>
 						    </div>
 						  </div>
 						</div>
@@ -55,19 +52,125 @@ get_header(); ?>
 					<div class="slide-wrap">
 
 						<h2 class="slide-title"><?php echo of_get_option('bone_welcome_text'); ?></h2>
-						
-						<a class="btn-play_wrap" href="#" data-toggle="modal" data-target="#videoModal">
-							<span class="btn btn-white btn-play">
-								<i class="icon icon-angle-right"></i>
-							</span>
-							<span class="btn-play_desc">Watch Intro!</span>
+							
+						<a class="btn-play_wrap t-16" href="#" data-toggle="modal" data-target="#videoModal">
+							<i class="glyphicon glyphicon-play-circle"></i>&nbsp;&nbsp;WATCH OUR VIDEO
 						</a>
 
-						<a class="btn btn-white" href="#colophon">Schedule a Demo</a>
+						<a class="btn btn-default btn-lg col-sm-3 col-centered" href="#colophon">Schedule a Demo</a>
 						<!-- <a class="btn btn-white" data-toggle="modal" data-target="#scheduleModal">Schedule a Demo</a> -->
 					</div>
+					<?php the_content(); ?>
+						<div class="t-16 text-white bg-analytic">
+							<div class="wrap">
+								<div class="col-sm-5">
+								<br><br><br>
+									<p class="t-32">Enrollment Tracking &amp; <br> Predictive Analytics</p>
+									<p>SchoolMint provides you with predictive analytics and reports to smartly manage enrollment and meet your enrollment goals while tracking how you are progressing week to week and month to month.</p>
 
-						<?php the_content(); ?>
+									<p class="t-32">Mobile Access for Parents</p>
+									<p>More than 50% of our parents use Native iOS and Android apps on their phones and tablet to submit applications, check an application's status, and complete registration without access to a computer.</p>
+								</div>
+								<div class="col-sm-7 text-right">
+									<img src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/pc-phone.png" data-2x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/pc-phone@2x.png" data-3x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/pc-phone@3x.png" alt="">
+								</div>
+
+								<div class="col-sm-12">
+									<a href="#"></a>
+									<a href="#"></a>
+								</div>
+							</div>	
+						</div>
+						
+						
+						<h2 class="main-title">Schoolmint Solutions</h2>
+						
+						<div class="t-20">
+							<div class="row area">
+								<div class="wrap">
+									<div class="col-sm-3 col-xs-2">
+										<img src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/school-o.png" data-2x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/school-o@2x.png" data-3x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/school-o@3x.png" alt="">
+									</div>
+									<div class="col-sm-9 col-xs-10">
+										<p class="text-primary t-32">Charter Schools <i class="icon-leaf"></i></p>
+										<p class="text-gray">Recruitment, parent interest tracking, applications, letters of intent, lengthy registration packets, running your lottery and managing your waitlist, all this whilst also managing communications... it's a lot of work! Lucky for you School Mint, the smart enrollment solution, is here.</p>
+										<a class="learn-more" href="#">LEARN MORE</a>
+									</div>
+								</div>
+							</div>
+
+							<div class="row area bg-gray">
+
+								<div class="wrap">
+									<div class="col-sm-9 col-xs-10">
+										<p class="text-primary t-32">School Choice &amp; Common Enrollment <i class="icon-leaf"></i></p>
+										<p class="text-gray">We have the expertise necessary to support school choice and common  enrollment at your district, city, or area. It’s time you chose SchoolMint.</p>
+										<a class="learn-more" href="#">LEARN MORE</a>
+									</div>
+
+									<div class="col-sm-3 col-xs-2 text-right">
+										<img src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/pen-o.png" data-2x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/pen-o@2x.png" data-3x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/pen-o@3x.png" alt="">
+									</div>
+								</div>
+
+
+							</div>
+
+
+							<div class="row area">
+
+								<div class="wrap">
+									<div class="col-sm-3 col-xs-2">
+									<img src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/apple-o.png" data-2x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/apple-o@2x.png" data-3x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/apple-o@3x.png" alt="">
+								</div>
+								<div class="col-sm-9 col-xs-10">
+									<p class="text-primary t-32">Districts / Traditional Public Schools <i class="icon-leaf"></i></p>
+									<p class="text-gray">From student recruitment, registration, re-enrollment and even summer school enrollment, SchoolMint is the complete enrollment solution you have been waiting for. By using SchoolMint, you can save thousands to tens of thousands of dollars and hundreds of hours of work!</p>
+									<a class="learn-more" href="#">LEARN MORE</a>
+								</div>
+								</div>
+
+
+							</div>
+
+							<div class="row area bg-gray">
+
+								<div class="wrap">
+									<div class="col-sm-9 col-xs-10">
+									<p class="text-primary t-32">Independent/Private Schools <i class="icon-leaf"></i></p>
+									<p class="text-gray">Independent schools have unique needs and we understand that at SchoolMint. With an involved application process, interviews, shadow days, and open houses that need to be scheduled, our mobile and web-based system is exactly what you need to streamline admissions and empower your team with the data you require for your school to thrive.</p>
+									<a class="learn-more" href="#">LEARN MORE</a>
+								</div>
+
+								<div class="col-sm-3 col-xs-2 text-right">
+									<img src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/sheld-o.png" data-2x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/sheld-o@2x.png" data-3x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/sheld-o@3x.png" alt="">
+								</div>
+								</div>
+
+
+							</div>
+
+
+							<div class="row area">
+
+								<div class="wrap">
+									<div class="col-sm-3 col-xs-2">
+									<img src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/key-o.png" data-2x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/key-o@2x.png" data-3x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/key-o@3x.png" alt="">
+								</div>
+								<div class="col-sm-9 col-xs-10">
+									<p class="text-primary t-32">Parent Access <i class="icon-leaf"></i></p>
+									<p class="text-gray">Ever had to wait in line to submit a form or had to take time or even a day оff from work to submit paper work to you school? Ready to submit applications, registration packets, forms, surveys, permission slips at the click of a button? Want to always know the status of your child's application. Speak to someone on our team about working with your school to get SchoolMint, if your school isn't already a SchoolMint supported school.</p>
+									<a class="learn-more" href="#">LEARN MORE</a>
+								</div>
+								</div>
+
+
+							</div>
+
+						</div>
+
+						
+
 						<?php
 							/*wp_link_pages( array(
 								'before' => '<div class="page-links">' . __( 'Pages:', 'themealley_business' ),

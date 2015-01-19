@@ -16,7 +16,7 @@
 <meta name="Description" content="Hundreds of schools use SchoolMint's secure, online student registration  and data analytics solution to save time and costs associated with admissions, lottery, waitlist management, registration and SIS exports." />
 <meta name="Keywords"  content="Home :: Online school registration, charter schools lottery, online application, waitlist management, enrollment progress, enrollment tracker,  application, re/enrollment and admission solutions, SchoolMint, Common Enrollment, Universal Enrollment, Philadelphia Enrollment, Charter Schools Lottery, school registration forms, School Choice, School Match, Parent School Communication, Mobile Enrollment, wait-list management, schoolmint.com, district enrollment" />
 <title><?php wp_title( '|', true, 'right' ); ?></title>
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
