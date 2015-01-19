@@ -12,7 +12,10 @@
 									<p>More than 50% of our parents use Native iOS and Android apps on their phones and tablet to submit applications, check an application's status, and complete registration without access to a computer.</p>
 								</div>
 								<div class="col-sm-5 col-sm-offset-2">
-								<form class="cover" action="">
+                                <div id="contact_form" class="contact_form">
+                <?php if( function_exists( 'ninja_forms_display_form' ) ){ ninja_forms_display_form( 1 ); } ?>
+                </div>
+								<!--<form class="cover" action="">
 								<div class="form-control zone-15">
                                     <input type="text" placeholder="your name*" id="title" class="input-title t-16">
                                 </div>
@@ -20,29 +23,21 @@
                                     <input type="text" placeholder="email address*" id="title" class="input-title t-16">
                                 </div>
 								<div class="form-control zone-15">
-								<div class="dropdown-wrap">
-                                     
-                                       how did you hear about us?*
-                                        <span class="icon icon-caret-down"></span>
-                                     
-                                      <ul role="menu" class="dropdown-menu">
-                                        <li><a href="#">Item1</a></li>
-                                        <li class="divider"></li>
-                                        <li><a href="#">Item2</a></li>
-                                        <li class="divider"></li>
-                                        <li><a href="#">Item3</a></li>
-                                        <li class="divider"></li>
-                                        <li><a href="#">Item4</a></li>
-                                      </ul><p></p>
-                                  </select>
-                                </div>
+								<label class="custom-select">
+							<select>
+					        <option selected="">Where does it hurt?</option>
+					        <option>Option 1</option>
+					        <option>Option 2</option>
+					    </select>
+						</label>
+						</div>
 								<div class="form-control add-details zone-50">
                                     <textarea placeholder="your message*" rows="3" id="more-info" name="info" class="input-title t-16"></textarea>
                                 </div>
 								<div class="zone-15">
                                     <input type="submit" value="Request a Demo*" class="t-16">
                                 </div>
-								</form>	
+								</form>-->	
 								</div>
 
 								
@@ -76,7 +71,7 @@
                 <!-- ------------ -->
                 </div>
             
-                <!--<?php do_action( 'themealley_business_credits' ); ?>
+                <?php do_action( 'themealley_business_credits' ); ?>
                 <?php if( of_get_option('footer_logo_image') ) : ?>
 				<div class="footer-logo">
                 	<img src="<?php echo of_get_option('footer_logo_image'); ?>">
