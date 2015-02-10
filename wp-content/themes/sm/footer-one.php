@@ -3,17 +3,18 @@
     	
 		<div class="t-16 text-white bg-footer">
 							<div class="wrap">
-								<div class="col-sm-5">
-								<br><br><br>
-									<p class="t-32">Enrollment Tracking &amp; <br> Predictive Analytics</p>
-									<p>SchoolMint provides you with predictive analytics and reports to smartly manage enrollment and meet your enrollment goals while tracking how you are progressing week to week and month to month.</p>
-
-									<p class="t-32">Mobile Access for Parents</p>
-									<p>More than 50% of our parents use Native iOS and Android apps on their phones and tablet to submit applications, check an application's status, and complete registration without access to a computer.</p>
+								<div class="col-md-6 col-sm-6">
+								
+									<p class="t-40 semibold">Want to learn more? <br>Schedule a demo today!</p>
+									<p class="t-18">Ready to transform the admissions process for your schools?Just want to stay updated on product releases and other SchoolMint news? Either way, we'd love to hear from you. </p>
+                                    <p class="t-18">Fill out this form and we'll get back to you as soon as possible.
+									
 								</div>
-								<div class="col-sm-5 col-sm-offset-2">
+								<div class="col-md-6 col-sm-6">
+                                <div class="cover">
                                 <div id="contact_form" class="contact_form">
-                <?php if( function_exists( 'ninja_forms_display_form' ) ){ ninja_forms_display_form( 1 ); } ?>
+                <?php if( function_exists( 'ninja_forms_display_form' ) ){ ninja_forms_display_form( 1 ); }?>
+                </div>
                 </div>
 								<!--<form class="cover" action="">
 								<div class="form-control zone-15">
@@ -73,11 +74,68 @@
             
                 <?php do_action( 'themealley_business_credits' ); ?>
                 <?php if( of_get_option('footer_logo_image') ) : ?>
-				<div class="footer-logo">
-                	<img src="<?php echo of_get_option('footer_logo_image'); ?>">
+                
+<div class=" col-sm-12 col-xs-12 t-12 area-60 footer-bottom">
+<div class="wrap">
+<div class="col-sm-3 col-xs-6">
+<ul class="school">
+<h4 class="t-12">School solutions</h4>
+<li><a href="http://schoolmint.p.webdevs.com/school-solutions/districttraditional-public-schools">District/Traditional Public Schools</a></li>
+<li><a href="http://schoolmint.p.webdevs.com/school-solutions/charter-school">Charter School</a></li>
+<li><a href="http://schoolmint.p.webdevs.com/school-solutions/independent-private-schools">Independent/Private Schools</a></li>
+<li><a href="http://schoolmint.p.webdevs.com/school-solutions/school-choice-common-enrollment">School Choice & Common Enrollment</a></li>
+<li><a href="http://schoolmint.p.webdevs.com/school-solutions/parent-access">Parent Access</a></li>
+</ul>
+</div>
+<div class="col-sm-2 col-xs-6">
+<ul class="company">
+<h4 class="t-12">Company</h4>
+<li><a href="http://search.schoolmint.com/">School Search</a></li>
+<li><a href="http://schoolmint.p.webdevs.com/features">Features</a></li>
+<li><a href="http://schoolmint.p.webdevs.com/about-us">About us</a></li>
+<li><a href="http://schoolmint.p.webdevs.com/blog">Blog</a></li>
+<li><a href="http://schoolmint.p.webdevs.com/career">Career</a></li>
+<li><a href="http://schoolmint.p.webdevs.com/contact-us">Contact us</a></li>
+<li><a href="http://schoolmint.p.webdevs.com/contact-us/help">Help</a></li>
+</ul>
+</div>
+<div class="col-sm-3 col-xs-11">
+<ul class="follow">
+<h4 class="t-12">Follow us on </h4>
+<li><a href="https://twitter.com/school_mint"><img alt="" src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/tw@3x.png" data-2x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/tw@2x.png" data-3x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/tw.png"></a></li>
+<li><a href="https://www.facebook.com/schoolmintdotcom"><img alt="" src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/fb@3x.png" data-2x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/fb@2x.png" data-3x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/fb.png"></a></li>
+<li><a href="https://plus.google.com/u/0/+Schoolmintpage"><img alt="" src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/google@3x.png" data-2x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/google@2x.png" data-3x="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/retina/google.png"></a></li>
+
+</ul>
+</div>
+<div class="col-sm-4 col-xs-11">
+<ul class="join">
+<h4 class="t-12">Join our mailing list</h4>
+<li><?php if( function_exists( 'ninja_forms_display_form' ) ){ ninja_forms_display_form( 4 ); }?></li>
+<li><a href="https://www.rapidssl.com/"><img src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/icon.png"></a></li>
+
+
+</ul>
+</div>
+
+            </div>
+            </div>
+            <div class="col-sm-12 col-centered text-center zone-30">
+		   
+                <div class="site-branding zone-30">
+                 <a href="http://schoolmint.p.webdevs.com/"><img src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/schoolmint-logo-footer.png"></a>
+                                       
                 </div>
+                <ul class="bottom-menu t-10">
+                <li><a href="http://schoolmint.p.webdevs.com/terms-of-services">Terms of Services</a>&nbsp; &nbsp;|&nbsp; &nbsp;</li>
+                 <li><a href="http://schoolmint.p.webdevs.com/privacy-policy">Privacy Policy</a>&nbsp; &nbsp;|&nbsp; &nbsp;</li>
+                  <li>© Schoolmint. All Right Reserved.</li>
+                </ul>
+                <a href="https://mixpanel.com/f/partner"><img src="http://schoolmint.p.webdevs.com/wp-content/themes/sm/images/mixpanel-logo.png"></a>
+                </div>
+            </div>
 				<?php else : ?>
-                <h3><a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo('name'); ?></a></h3>
+                <!--<h3><a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo('name'); ?></a></h3>
                 <?php endif; ?>
                 <?php get_template_part( 'footer', 'copyright' ); ?>
                 <?php if( !of_get_option('show_footer_credits') || of_get_option('show_footer_credits') == 'true' ) : ?>
@@ -92,7 +150,7 @@
                 
             </div><!-- .site-info -->
             
-            <div class="footer-widget-three">
+           <!-- <div class="footer-widget-three">
             	<?php if ( dynamic_sidebar('footer-left') ); ?>
             </div>
             

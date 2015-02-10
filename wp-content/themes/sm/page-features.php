@@ -13,70 +13,17 @@
 
 get_header(); ?>
 
-	<div id="primary" class="portfolio-content-area">
-		<div id="content" class="portfolio-site-content" role="main">
+	<div id="primary" class="full-page-content-area">
+		<div id="content" class="site-content" role="main">
 
 			<?php while ( have_posts() ) : the_post(); ?>
-				
-				<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-            			<header class="portfolio-page-header">
-		                        <h1 class="portfolio-page-title"><?php the_title(); ?></h1>
-		                </header><!-- .entry-header -->
-		                
-					<div class="entry-content">
-						<section id="features-section">
-								<?php the_content(); ?>
-								<?php
-									wp_link_pages( array(
-										'before' => '<div class="page-links">' . __( 'Pages:', 'themealley_business' ),
-										'after'  => '</div>',
-									) );
-								?>
-							<?php if( get_field('blocks') ): ?>
-							<?php while( has_sub_field('blocks') ): ?>
-							<div class="box-wrap">
-								<?php if(get_sub_field('title')) : ?><h2><?php the_sub_field('title'); ?></h2><?php endif; ?>
-								<?php if(get_sub_field('sub_title')) : ?><h3><?php the_sub_field('sub_title'); ?></h3><?php endif; ?>
-								<?php
-									$items = get_sub_field('items');
-									if($items) :
-										$loop = 0;
-										foreach($items as $item):
-											$loop++;
-								?>
-									<?php if($loop==1): ?>
-									<!-- Features Row -->
-									<div class="row">
-									<?php endif; ?>
-										<div class="col feature">
-											<div class="box">
-												<div class="img-box">
-													<img class="two" src="<?php echo $item['icon']; ?>" alt="">
-												</div>
-												<div class="text">
-													<h4><?php echo $item['title']; ?></h4>
-													<p><?php echo $item['text']; ?></p>
-												</div>
-											</div>
-										</div>
-									<?php if($loop==2): $loop = 0; ?>
-									</div>
-									<!-- / Features Row -->
-									<?php endif; ?>
-								<?php endforeach; ?>
-									<?php if($loop<2 && $loop!=0): ?>
-									</div>
-									<!-- / Features Row -->
-									<?php endif; ?>
-								<?php endif; ?>
-							</div>
-							<?php endwhile; ?>
-							<?php endif; ?>
-							
-						</section>	
-					</div>
-						   
-                </article><!-- #post-## -->	
+          
+                           
+                 <?php the_content(); ?>  
+                
+                
+                
+              
 
 				<?php if( of_get_option('show_comments_page') == 'true' ) : ?>
 				<?php

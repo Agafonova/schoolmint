@@ -13,17 +13,17 @@
 
 get_header(); ?>
 
-	<div id="primary" class="portfolio-content-area">
-		<div id="content" class="portfolio-site-content" role="main">
+	<div id="primary" class="full-page-content-area">
+		<div id="content" class="site-content" role="main">
 
 			<?php while ( have_posts() ) : the_post(); ?>
 				
-				<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-            			<header class="portfolio-page-header">
+				<!--<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+            			<!--<header class="portfolio-page-header">
 							<h1 class="portfolio-page-title"><?php// the_title(); ?></h1>
 		                </header><!-- .entry-header -->
 						
-						<div class="entry-content">
+						<!--<div class="entry-content">
 							<section id="about-section">
 								<div class="text-box">
 										<?php the_content(); ?>
@@ -69,10 +69,14 @@ get_header(); ?>
 								<?php endif; ?>
 								
 							</section>
-						</div>
-						   
-                </article><!-- #post-## -->	
-
+						</div>-->
+			
+<?php the_content(); ?>
+                        
+                
+                
+                
+                
 				<?php if( of_get_option('show_comments_page') == 'true' ) : ?>
 				<?php
 					// If comments are open or we have at least one comment, load up the comment template

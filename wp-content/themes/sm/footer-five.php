@@ -1,41 +1,41 @@
-	
+
     <div class="footer-five-map">
-    
+
     	<div class="footer-widget-fivemap-container">
-                    
-            <?php 
+
+            <?php
                  echo of_get_option('footer_map');
-			?> 
-                        
-         </div>    
-    
+			?>
+
+         </div>
+
     </div><!-- .footer-five-map -->
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
-    
+
     	<div class="responsive-container">
         <div class="footer-three-container">
-            	
+
             <div class="footer-widget-four">
             	<?php if ( dynamic_sidebar('footer-left') ); ?>
             </div>
-            
+
             <div class="footer-widget-four">
             	<?php if ( dynamic_sidebar('footer-center-left') ); ?>
             </div>
-            
+
             <div class="footer-widget-four">
             	<?php if ( dynamic_sidebar('footer-center-right') ); ?>
-            </div>                        
-            
+            </div>
+
             <div class="footer-widget-four">
-            	<?php if ( dynamic_sidebar('footer-right') ); ?>            
-            </div>            
-        
+            	<?php if ( dynamic_sidebar('footer-right') ); ?>
+            </div>
+
         </div><!-- .footer-three-container -->
-        
+
         <div class="site-info-three">
-        
+
         		<div class="site-info-three-divider"></div>
                 <?php do_action( 'themealley_business_credits' ); ?>
                 <?php if( of_get_option('footer_logo_image') ) : ?>
@@ -54,10 +54,10 @@
                 <?php endif; ?>
                 <?php if( !of_get_option('show_footer_search') || of_get_option('show_footer_search') == 'true' ) : ?>
                 <div class="footer-search"><?php get_search_form(); ?></div>
-				<?php endif; ?>        
-        
+				<?php endif; ?>
+
         </div><!-- .site-info-three -->
-          
+
     	</div><!-- .Responsive-Container -->
-                    
+
 	</footer><!-- #colophon -->

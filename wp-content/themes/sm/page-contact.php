@@ -13,34 +13,44 @@
 
 get_header(); ?>
 
-	<div id="primary" class="portfolio-content-area">
-		<div id="content" class="portfolio-site-content" role="main">
+	<div id="primary" class="full-page-content-area">
+		<div id="content" class="site-content" role="main">
 
 			<?php while ( have_posts() ) : the_post(); ?>
-				
-				<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-            			<header class="portfolio-page-header">
-		                        <h1 class="portfolio-page-title"><?php the_title(); ?></h1>
-		                </header><!-- .entry-header -->
-		                <div id="contact-section">
-							<?php get_template_part( 'content', 'page' ); ?>    
-							<div class="map">
-								<div class="box_wrapp">
-									<div class="box_cont">
-										<h4><?php the_field('name'); ?></h4>
-										<p><?php echo nl2br(get_field('address')) ?>
-											<br><span class="phone"><?php the_field('phone'); ?></span>
-											<br><a class="email" href="mailto:<?php echo antispambot(get_field('e-mail'), true); ?>"><?php echo antispambot(get_field('e-mail')); ?></a>
-										</p>
-									</div>
-								</div>
+			
+								
 							
-								<iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="<?php echo esc_url(get_field('map_url')); ?>"></iframe>
-					
-							</div>
-		                </div>
-						   
-                </article><!-- #post-## -->	
+								<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+                            <script>
+                                function initialize() {
+                                    var mapOptions = {
+                                        zoom: 16,
+                                        center: new google.maps.LatLng(37.7872628, -122.39854830000002),
+                                        mapTypeId: google.maps.MapTypeId.ROADMAP,
+                                        disableDefaultUI: true
+                                    };
+
+                                    var map = new google.maps.Map(document.getElementById('contact-map'), mapOptions);
+
+
+                                    var marker = new google.maps.Marker({
+                                        position: map.getCenter(),
+                                        icon: '/wp-content/themes/sm/images/retina/icon_leaf.png',
+                                        map: map
+                                    });
+
+                                }
+
+                                google.maps.event.addDomListener(window, 'load', initialize);
+
+                            </script>
+                            
+                      <?php the_content(); ?>    
+           
+                
+                
+                
+              
 
 				<?php if( of_get_option('show_comments_page') == 'true' ) : ?>
 				<?php

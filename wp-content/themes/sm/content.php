@@ -39,6 +39,7 @@
 				$categories_list = get_the_category_list( __( ' ', 'themealley_business' ) );
 				if ( $categories_list && themealley_business_categorized_blog() ) :
 			?>
+			
 			<div class="entry-meta-bottom-item">
 				<?php printf( __( 'Posted in %1$s', 'themealley_business' ), $categories_list ); ?>
 			</div>
@@ -56,7 +57,7 @@
 		<?php endif; // End if 'post' == get_post_type() ?>
 
 		<?php if ( ! post_password_required() && ( comments_open() || '0' != get_comments_number() ) ) : ?>
-		<div class="entry-meta-bottom-item">
+		<div class="add-space entry-meta-bottom-item">
 			<?php comments_popup_link( __( 'Leave a comment', 'themealley_business' ), __( '1 Comment', 'themealley_business' ), __( '% Comments', 'themealley_business' ) ); ?>
         </div>
 		<?php endif; ?>
