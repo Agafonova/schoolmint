@@ -527,7 +527,7 @@ color:#00A2C4;}
     /*float:left;*/
 }
 .logged-in .content-area{
-	 margin: 80px 6% 2% 2%;
+	 margin: 80px 2% 2% 5%;
 	
 	}
 	.logged-in .widget-area{
@@ -4772,7 +4772,7 @@ width: 60%;
     
     .site-header-half-width-logo {
         width: 30%;
-        margin: 1.5em 3em;
+        margin: 1.5em 3em 1.5em 6em;
         float: left;
         padding: 0;
     }
@@ -7122,10 +7122,10 @@ float:none;
 @media (max-width: 968px) {
     .navbar-collapse {
         box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset;
-        max-height: 382px;
-        overflow-x: visible;
+        overflow-x: auto;
         padding-left: 15px;
         padding-right: 15px;
+		 padding-bottom: 7px;
     }
 	.navbar-header{
 float:none;
@@ -7208,7 +7208,7 @@ cursor:pointer;
     }
 	.navbar-collapse ul .menu-item-15 ul{
 	display:block;
-	padding:0 0 15px 0;
+	padding:0 0 5px 0;
 	}
 	.zone-80{
 	margin:0 0 50px 0;
@@ -7570,6 +7570,9 @@ font-size:12px;
 .paging-navigation .nav-next a{
 margin: 0 29px 0 0;
 }
+.paging-navigation .nav-next a, .paging-navigation .nav-previous a{
+	margin:-26px 0 0 0;
+	}
 }
 .group-blog .search-submit{
 	display:none;
@@ -7577,9 +7580,7 @@ margin: 0 29px 0 0;
 	.group-blog .entry-meta-bottom-item > a{
 	color:hsl(190, 100%, 38%);
 	}
-	.paging-navigation .nav-next a, .paging-navigation .nav-previous a{
-	margin:-26px 0 0 0;
-	}
+	
 	.page-header h1.page-title{
 	padding: 20px 0 0;
 	}

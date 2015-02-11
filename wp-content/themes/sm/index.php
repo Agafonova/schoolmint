@@ -100,3 +100,166 @@ get_header(); ?>
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
+
+
+
+
+
+
+
+<div class="t-16 text-white bg-about">
+<div class="wrap">
+<div class="col-md-11 col-sm-11 text-center col-centered">
+<h1 class="t-64 zone-30">About us</h1>
+<p class="t-28 semibold">SchoolMint has been instrumental in enrolling hundreds of thousands of K-12 students at Public, Charter, and Private schools in dozens of cities and hundreds of schools across the entire U.S.</p>
+</div>
+</div>
+</div>
+<div class="row area position">
+<div class="col-sm-12 col-xs-12 add-position text-center col-centered"></div>
+<div class="wrap">
+<div class="col-sm-10 col-xs-10 col-centered text-justify">
+<p class="t-20 text-graylight">In 2012, Forum and Jinal (founders of SchoolMint) set out to enroll their daughter in pre-school. It was a frustrating process that involved filling out tons of paper forms, the occasional need for whiteout, and lots of standing in line, being on the phone, and especially, a lot of waiting. Communicating with schools was even a bigger nightmare.</p>
+<p class="t-20 text-graylight">As co-founders of Log(n), a design and engineering firm that specializes in education technology, they had built several custom admissions and enrollment systems for districts throughout the country, but it was not until this moment that they realized that all schools and families could benefit from a streamlined and modernized admissions and communications process. Shortly afterwards, SchoolMint was founded.</p>
+</div>
+</div>
+</div>
+<div class="row area bg-gray">
+<div class="wrap">
+<div class="col-sm-10 col-xs-10 col-centered text-center">
+<p class="t-24 text-blue">SchoolMint is venture funded by some of the top Investors like Crosslink Capital, NewSchools Venture Fund, ImagineK12, Runa Capital, Kapor Capital, Romulus Capital, Fresco Capital, Ed Mentor, Inspire Invesment Group, Innovate Foundation and many other prominent Angel Investors.</p>
+</div>
+</div>
+</div>
+<div class="row area bg-white">
+<div class="wrap">
+<div class="col-sm-12 col-xs-12 col-centered">
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face1.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Jinal Jhaveri</p>
+<p class="t-12 text-graylight uppercase">Co-founder &amp; ceo</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face2.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Forum Desai</p>
+<p class="t-12 text-graylight uppercase">Co-founder &amp; coo</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face3.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Galen Li</p>
+<p class="t-12 text-graylight uppercase">Vp of product</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face4.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Katie Aspell</p>
+<p class="t-12 text-graylight uppercase">Implementation&amp; customer success team manager</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face5.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Yusuf Bhabhrawala</p>
+<p class="t-12 text-graylight uppercase">Director of engineering</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face18.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Cris Araya</p>
+<p class="t-12 text-graylight uppercase">Engineer</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face6.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Victor Da Luz</p>
+<p class="t-12 text-graylight uppercase">Engineer</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face12.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Alex Coto</p>
+<p class="t-12 text-graylight uppercase">Mobile Engineer</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face7.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Jose Seravalli</p>
+<p class="t-12 text-graylight uppercase">Engineer</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face8.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Luz Gonzalez</p>
+<p class="t-12 text-graylight uppercase">Partnerships &amp; Bizdev Manager</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face13.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">David Elizondo</p>
+<p class="t-12 text-graylight uppercase">Mobile Engineer</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face9.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Tim Brandau</p>
+<p class="t-12 text-graylight uppercase">Partnerships</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face10.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Justin Reonardy</p>
+<p class="t-12 text-graylight uppercase">Ui designer</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face16.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Daniel Solis</p>
+<p class="t-12 text-graylight uppercase">Engineer</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face11.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Christina Trimble</p>
+<p class="t-12 text-graylight uppercase">Office manager</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face17.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Elizabeth Ballinger-Dix</p>
+<p class="t-12 text-graylight uppercase">Customer Success representative</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face19.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Alvaro Mantilla</p>
+<p class="t-12 text-graylight uppercase">Engineer</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12 add-height">
+<div class="col-md-5 col-sm-6 col-xs-6 text-center"><img src="/wp-content/themes/sm/images/face20.png" alt="" /></div>
+<div class="col-md-6 col-sm-6 col-xs-5 zone-2p text-left">
+<p class="t-20 text-black">Mario Gomez</p>
+<p class="t-12 text-graylight uppercase">Engineer</p>
+</div>
+</div>
+</div>
+</div>
+</div>
