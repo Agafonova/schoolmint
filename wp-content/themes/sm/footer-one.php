@@ -127,9 +127,9 @@
                                        
                 </div>
                 <ul class="bottom-menu t-10">
-                <li><a href="/terms-of-services">Terms of Services</a>&nbsp; &nbsp;|&nbsp; &nbsp;</li>
+                <li><a href="/terms-of-services">Terms of Service</a>&nbsp; &nbsp;|&nbsp; &nbsp;</li>
                  <li><a href="/privacy-policy">Privacy Policy</a>&nbsp; &nbsp;|&nbsp; &nbsp;</li>
-                  <li>© Schoolmint. All Right Reserved.</li>
+                  <li>© SchoolMint. All Rights Reserved.</li>
                 </ul>
                 <a href="https://mixpanel.com/f/partner"><img src="/wp-content/themes/sm/images/mixpanel-logo.png"></a>
                 </div>

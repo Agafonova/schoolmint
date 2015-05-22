@@ -273,3 +273,7 @@ body.rtl .sharing ul {
 body.rtl .sharing li {
 	margin: 0 0 0 10px !important;
 }
+.page-template .sharing {
+	display: none !important;
+	
+}
