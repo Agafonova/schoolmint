@@ -7672,3 +7672,31 @@ margin: 0 29px 0 0;
 	
 /* alex - end add
 ----------------------------------------------- */
+
+
+/* testimonials carousel */
+.carousel-control.left, 
+.carousel-control.right {
+    background: none;
+    filter: none;
+}
+
+.carousel-control:visited{
+    color: #fff;
+}
+.carousel .item {
+    min-height: 320px;  
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+@media screen and (min-width: 992px) {
+    .carousel-control .icon-prev {
+        margin-left: -80px;
+    }
+
+    .carousel-control .icon-next {
+        margin-right: -80px;
+    }
+}
+/* end testimonials carousel */
