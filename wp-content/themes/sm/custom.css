@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21.05.2015, 14:10:14
+    Author     : vyacheslav
+*/
+
+#ninja_forms_field_34_div_wrap.submit-wrap {
+    width: 100%;
+    margin-left: 0;
+}
+#ninja_forms_form_5 ul li{
+    width: 100%;
+    margin: 10px 0 0 0;
+    padding-left: 0;
+}
+#ninja_forms_field_39_label, #ninja_forms_form_5 ul label{
+    border: none;    
+}
+#ninja_forms_form_5 ul>li:nth-child(n+5) {
+   display: none;
+}

@@ -35,5 +35,5 @@ get_header(); ?>
 
 		</div><!-- #content -->
 	</div><!-- #primary -->
-
-<?php get_footer(); ?>
+</div>
+<?php get_footer('parents'); ?>
