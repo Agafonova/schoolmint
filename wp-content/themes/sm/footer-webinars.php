@@ -1,170 +1,178 @@
-	<footer id="colophon" class="site-footer" role="contentinfo">
-    
-    	
-		<div class="t-16 text-white bg-footer">
-							<div class="wrap">
-								<div class="col-md-6 col-sm-6">
-								
-									<p class="t-40 semibold">Subscribe to webinar !</p>
-									<p class="t-18">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis et risus sed congue. Proin efficitur lorem sed dolor ornare, vel accumsan sem viverra. Ut eu massa lobortis, volutpat nunc ac, luctus est.  </p>
+<?php
+/**
+ * The template for displaying the footer.
+ *
+ * Contains the closing of the id=main div and all content after
+ *
+ * @package themealley_business
+ */
+?>
 
-								</div>
-								<div class="col-md-6 col-sm-6">
-                                <div class="cover">
-                                <div id="contact_form" class="contact_form">
-                <?php if( function_exists( 'ninja_forms_display_form' ) ){ ninja_forms_display_form( 5 ); }?>
-                </div>
-                </div>
-								<!--<form class="cover" action="">
-								<div class="form-control zone-15">
-                                    <input type="text" placeholder="your name*" id="title" class="input-title t-16">
-                                </div>
-								<div class="form-control zone-15">
-                                    <input type="text" placeholder="email address*" id="title" class="input-title t-16">
-                                </div>
-								<div class="form-control zone-15">
-								<label class="custom-select">
-							<select>
-					        <option selected="">Where does it hurt?</option>
-					        <option>Option 1</option>
-					        <option>Option 2</option>
-					    </select>
-						</label>
-						</div>
-								<div class="form-control add-details zone-50">
-                                    <textarea placeholder="your message*" rows="3" id="more-info" name="info" class="input-title t-16"></textarea>
-                                </div>
-								<div class="zone-15">
-                                    <input type="submit" value="Request a Demo*" class="t-16">
-                                </div>
-								</form>-->	
-								</div>
+    		</div><!-- .content-container -->
 
-								
-						
-						</div>
-            	
-            <!--<div class="site-info">
-                <h3 class="h3">Schedul</h3> 
-                <div class="footer-forms"> 
-                <!-- Twitter widget -->
-                <!--<div id="twitter_block" class="twitter_feed" style="position: relative">
-                    <a class="twitter-timeline" href="https://twitter.com/school_mint" data-widget-id="476297141120278528" data-chrome="noscrollbar nofooter" data-tweet-limit="5">Tweets by @school_mint</a>
-                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    	</div><!-- .Responsive-Container -->
 
-                    <!--<div id="twitter_follow" style="width: 82px; position: absolute; right: 5px; top: 5px;">
-                        <a href="https://twitter.com/school_mint" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="false">Follow @school_mint</a>
-                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                    </div>
-                    <div id="twitter_feed" style="position: absolute; top: 40px; height: 500px;">
-                        <a class="twitter-timeline" href="https://twitter.com/school_mint" data-chrome="noscrollbar nofooter noheader" data-tweet-limit="5" data-widget-id="476297141120278528" width="1000" height="1000">Tweets by @school_mint</a>
-                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-                    </div> -->
-                <!--</div>
+	</div><!-- #main -->
 
-                <!-- -------------- -->
-                
-                <!-- Contact Form -->
-                <!--<div id="contact_form" class="contact_form">
-                <?php if( function_exists( 'ninja_forms_display_form' ) ){ ninja_forms_display_form( 1 ); } ?>
-                </div>
-                <!-- ------------ -->
-                </div>
-            
-                <?php do_action( 'themealley_business_credits' ); ?>
-                <?php if( of_get_option('footer_logo_image') ) : ?>
-                
-<div class=" col-sm-12 col-xs-12 t-12 area-60 footer-bottom">
-<div class="wrap">
-<div class="col-sm-3 col-xs-6">
-<ul class="school">
-<h4 class="t-12">School solutions</h4>
-<li><a href="/school-solutions/districttraditional-public-schools">District/Traditional Public Schools</a></li>
-<li><a href="/school-solutions/charter-school">Charter School</a></li>
-<li><a href="/school-solutions/independent-private-schools">Independent/Private Schools</a></li>
-<li><a href="/school-solutions/school-choice-common-enrollment">School Choice & Common Enrollment</a></li>
-<li><a href="/school-solutions/parent-access">Parent Access</a></li>
-</ul>
-</div>
-<div class="col-sm-2 col-xs-6">
-<ul class="company">
-<h4 class="t-12">Company</h4>
-<li><a href="http://search.schoolmint.com/">School Search</a></li>
-<li><a href="/features">Features</a></li>
-<li><a href="/about-us">About us</a></li>
-<li><a href="/blog">Blog</a></li>
-<li><a href="/career">Career</a></li>
-<li><a href="/contact-us">Contact us</a></li>
-<li><a href="/contact-us/help">Help</a></li>
-</ul>
-</div>
-<div class="col-sm-3 col-xs-11">
-<ul class="follow">
-<h4 class="t-12">Follow us on </h4>
-<li><a href="https://twitter.com/school_mint"><img alt="" src="/wp-content/themes/sm/images/retina/tw@3x.png" data-2x="/wp-content/themes/sm/images/retina/tw@2x.png" data-3x="/wp-content/themes/sm/images/retina/tw.png"></a></li>
-<li><a href="https://www.facebook.com/schoolmintdotcom"><img alt="" src="/wp-content/themes/sm/images/retina/fb@3x.png" data-2x="/wp-content/themes/sm/images/retina/fb@2x.png" data-3x="/wp-content/themes/sm/images/retina/fb.png"></a></li>
-<li><a href="https://plus.google.com/u/0/+Schoolmintpage"><img alt="" src="/wp-content/themes/sm/images/retina/google@3x.png" data-2x="/wp-content/themes/sm/images/retina/google@2x.png" data-3x="/wp-content/themes/sm/images/retina/google.png"></a></li>
+    <?php if( ( of_get_option('homepage_layout') == 'bsix' || of_get_option('homepage_layout') == 'boneplus' || of_get_option('homepage_layout') == 'bthree' || of_get_option('homepage_layout') == 'bfour' || of_get_option('homepage_layout') == 'bseven' || of_get_option('homepage_layout') == 'beight' ) && ( !of_get_option('show_quote_biz') || of_get_option('show_quote_biz') == 'true' ) ) : ?>
+		<?php get_template_part( 'bizsix', 'quote' ); ?>
+	<?php endif; ?>
 
-</ul>
-</div>
-<div class="col-sm-4 col-xs-11">
-<ul class="join">
-<h4 class="t-12">Join our mailing list</h4>
-<li><?php if( function_exists( 'ninja_forms_display_form' ) ){ ninja_forms_display_form( 4 ); }?></li>
-<li><a href="https://www.rapidssl.com/"><img src="/wp-content/themes/sm/images/icon.png"></a></li>
+    <?php if( (!is_front_page()) && (of_get_option('homepage_layout') == 'bone' || of_get_option('homepage_layout') == 'btwo' || of_get_option('homepage_layout') == 'bfive' || of_get_option('homepage_layout') == 'bnine' ) && ( !of_get_option('show_quote_biz') || of_get_option('show_quote_biz') == 'true' ) ) : ?>
+        <?php get_template_part( 'bizsix', 'quote' ); ?>
+	<?php endif; ?>
+
+    <?php if( of_get_option('homepage_layout') != 'bnine' ) : ?>
+    <?php if( of_get_option('show_footer_client_logos') !='false' ) : ?>
+    <div class="footer-client-logos-container">
+
+       <div class="responsive-container">
+
+			<?php get_template_part( 'client', 'logos' ); ?>
+
+       </div><!-- .responsive-container -->
+
+    </div><!-- .footer-client-logos-container -->
+    <?php endif; ?>
+    <?php endif; ?>
+
+    <?php if( !of_get_option('show_social_icon_section') || of_get_option('show_social_icon_section')  == 'true' ) : ?>
+    <div class="footer-social">
+
+    	<div class="responsive-container">
+
+                                    <ul class="footer-social-icons">
+
+                                        <?php if(of_get_option('twitter_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('twitter_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/twitter.png" alt="Twitter" /></a></li>
+                                        <?php endif; ?>
+
+                                        <?php if(of_get_option('facebook_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('facebook_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/facebook.png" alt="Facebook" /></a></li>
+                                        <?php endif; ?>
+
+                                        <?php if(of_get_option('redit_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('redit_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/reddit.png" alt="redit" /></a></li>
+                                        <?php endif; ?>
+
+                                        <?php if(of_get_option('stumble_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('stumble_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/stumble.png" alt="stumble" /></a></li>
+                                        <?php endif; ?>
+
+                                        <?php if(of_get_option('flickr_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('flickr_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/flickr.png" alt="flickr" /></a></li>
+                                        <?php endif; ?>
+
+                                        <?php if(of_get_option('linkedin_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('linkedin_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/linkedin.png" alt="linkedin" /></a></li>
+                                        <?php endif; ?>
+
+                                        <?php if(of_get_option('google_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('google_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/gplus.png" alt="google" /></a></li>
+                                        <?php endif; ?>
+
+                                        <?php if(of_get_option('youtube_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('youtube_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/youtube.png" alt="YouTube" /></a></li>
+                                        <?php endif; ?>
+
+                                        <?php if(of_get_option('pinterest_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('pinterest_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/pinterest.png" alt="Pinterest" /></a></li>
+                                        <?php endif; ?>
+
+                                        <?php if(of_get_option('tumblr_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('tumblr_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/tumblr.png" alt="Tumblr" /></a></li>
+                                        <?php endif; ?>
+
+                                        <?php if(of_get_option('instagram_id')) : ?>
+                                        <li><a href="<?php echo esc_url( of_get_option('instagram_id') ); ?>" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/instagram.png" alt="Instagram" /></a></li>
+                                        <?php endif; ?>
 
 
-</ul>
-</div>
+                                    </ul>
 
-            </div>
-            </div>
-            <div class="col-sm-12 col-centered text-center zone-30">
-		   
-                <div class="site-branding zone-30">
-                 <a href="/"><img src="/wp-content/themes/sm/images/schoolmint-logo-footer.png"></a>
-                                       
-                </div>
-                <ul class="bottom-menu t-10">
-                <li><a href="/terms-of-services">Terms of Services</a>&nbsp; &nbsp;|&nbsp; &nbsp;</li>
-                 <li><a href="/privacy-policy">Privacy Policy</a>&nbsp; &nbsp;|&nbsp; &nbsp;</li>
-                  <li>© Schoolmint. All Right Reserved.</li>
-                </ul>
-                <a href="https://mixpanel.com/f/partner"><img src="/wp-content/themes/sm/images/mixpanel-logo.png"></a>
-                </div>
-            </div>
-				<?php else : ?>
-                <!--<h3><a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo('name'); ?></a></h3>
-                <?php endif; ?>
-                <?php get_template_part( 'footer', 'copyright' ); ?>
-                <?php if( !of_get_option('show_footer_credits') || of_get_option('show_footer_credits') == 'true' ) : ?>
-                <?php if( is_home() || is_front_page() ): ?>
-                <p><?php printf( __( 'Designed by: %1$s.', 'themealley_business' ), '<a href="http://www.themealley.com/" rel="designer">ThemeAlley.com</a>' ); ?></p>
-                <?php endif; ?>
-                <p>Powered by <a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'themealley_business' ); ?>" rel="generator"><?php printf( __( '%s', 'themealley_business' ), 'WordPress' ); ?></a></p>
-                <?php endif; ?>
-                <?php if( !of_get_option('show_footer_search') || of_get_option('show_footer_search') == 'true' ) : ?>
-                <div class="footer-search"><?php get_search_form(); ?></div>
-				<?php endif; ?>
-                
-            </div><!-- .site-info -->
-            
-           <!-- <div class="footer-widget-three">
-            	<?php if ( dynamic_sidebar('footer-left') ); ?>
-            </div>
-            
-            <div class="footer-widget-three">
-            	<?php if ( dynamic_sidebar('footer-center') ); ?>            
-            </div>
-            
-            <div class="footer-widget-three">
-            	<?php if ( dynamic_sidebar('footer-right') ); ?>            
-            </div>            
-            
-    	</div><!-- #Responsive-Container -->
-                    
-	</footer><!-- #colophon -->
-<link rel='stylesheet' id='ninja-forms-display-css'  href='/wp-content/plugins/ninja-forms/css/ninja-forms-display.css?ver=3.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-qtip-css'  href='/wp-content/plugins/ninja-forms/css/qtip.css?ver=3.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-rating-css'  href='/wp-content/plugins/ninja-forms/css/jquery.rating.css?ver=3.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='jquery-rating-css'  href='/wp-content/themes/sm/custom.css' type='text/css' media='all' />
+        </div><!-- .Responsive-Container -->
+
+    </div><!-- .footer-social -->
+	<?php endif; ?>
+
+	<!-- Footer Starts Here -->
+	<?php get_template_part( 'footer', 'webinars-part' );?>
+
+    <!-- Footer ends Here -->
+</div><!-- #inner-container -->
+</div><!-- #page -->
+</div><!-- #wrapper-one -->
+</div><!-- #wrapper-two -->
+</div><!-- #wrapper-three -->
+
+<?php wp_footer(); ?>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/1874.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<script type="text/javascript">
+adroll_adv_id = "KAITEMPV5VA3BGUM4E63QI";
+adroll_pix_id = "ZBRCLTQZMNDEBDEFVZLVPD";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+<!-- Google Code for demo request Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 969832836;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "Vp5VCMTs5QkQhPO5zgM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<!--<div style="display:inline;">
+<!--<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/969832836/?label=Vp5VCMTs5QkQhPO5zgM&amp;guid=ON&amp;script=0"/>
+</div>-->
+</noscript>
+
+<!--<center><a href='https://mixpanel.com/f/partner'><img src='https://cdn.mxpnl.com/site_media/images/partner/badge_blue.png' alt='Mobile Analytics' /></a> </center>
+<a href="https://plus.google.com/117601969806358731073" rel="publisher">Google+</a>
+
+<!-- Place this code where you want the badge to render. -->
+<!--<a href="//plus.google.com/u/0/117601969806358731073?prsrc=3" rel="publisher" target="_top" style="text-decoration:none;">
+<img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:32px;height:32px;"/>
+</a>-->
+
+<script>
+  window.intercomSettings = {
+    app_id: "lytjrqm2"
+  };
+</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/lytjrqm2';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
+<!-- Start of Async HubSpot Analytics Code -->
+  <script type="text/javascript">
+    (function(d,s,i,r) {
+      if (d.getElementById(i)){return;}
+      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/545448.js';
+      e.parentNode.insertBefore(n, e);
+    })(document,"script","hs-analytics",300000);
+  </script>
+<!-- End of Async HubSpot Analytics Code -->
+</body>
+</html>
