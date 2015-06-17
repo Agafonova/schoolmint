@@ -5,8 +5,8 @@
 							<div class="wrap">
 								<div class="col-md-6 col-sm-6">
 								
-									<p class="t-40 semibold">Subscribe to webinar !</p>
-									<p class="t-18">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis et risus sed congue. Proin efficitur lorem sed dolor ornare, vel accumsan sem viverra. Ut eu massa lobortis, volutpat nunc ac, luctus est.  </p>
+									<p class="t-40 semibold"><?php the_field('form_title') ?></p>
+									<p class="t-18"><?php the_field('form_description') ?></p>
 
 								</div>
 								<div class="col-md-6 col-sm-6">
