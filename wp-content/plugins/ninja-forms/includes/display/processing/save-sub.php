@@ -1,4 +1,4 @@
-<?php
+<?php if ( ! defined( 'ABSPATH' ) ) exit;
 
 function nf_save_sub(){
 	global $ninja_forms_processing, $ninja_forms_fields;
@@ -13,11 +13,13 @@ function nf_save_sub(){
 	$save = apply_filters ( 'ninja_forms_save_submission', $save, $ninja_forms_processing->get_form_ID() );
 
 	if( $save ){
+
 		$action = $ninja_forms_processing->get_action();
 		$user_id = $ninja_forms_processing->get_user_ID();
 		$sub_id = $ninja_forms_processing->get_form_setting( 'sub_id' );
 		$form_id = $ninja_forms_processing->get_form_ID();
 		$field_data = $ninja_forms_processing->get_all_fields();
+
 		// If we don't have a submission ID already, create a submission post.
 		if ( empty( $sub_id ) ) {
 			$sub_id = Ninja_Forms()->subs()->create( $form_id );

@@ -1,9 +1,9 @@
 === Ninja Forms ===
-Contributors: kstover, jameslaws, wpnzach, daveshine, mordauk, bftrick, helgatheviking
+Contributors: wpninjasllc, kstover, jameslaws, wpnzach, kbjohnson90, daveshine, mordauk, bftrick, helgatheviking
 Tags: form, forms, contact form, custom form, form builder, form creator, form manager, form creation, contact forms, custom forms, forms builder, forms creator, forms manager, forms creation, form administration,
-Requires at least: 3.8
-Tested up to: 4.0
-Stable tag: 2.8.9
+Requires at least: 3.9
+Tested up to: 4.2.2
+Stable tag: 2.9.18
 License: GPLv2 or later
 
 Forms created with a simple drag and drop interface. Contact forms, Email collection forms, or any other form you want on your WordPress site.
@@ -13,7 +13,7 @@ Ninja Forms is the ultimate FREE form creation solution for WordPress. Build Wor
 
 The Ninja Forms framework is now on [GitHub](https://github.com/wpninjas/ninja-forms)! If you're a developer and want to help make Ninja Forms better, check out our [GitHub repo](https://github.com/wpninjas/ninja-forms). It's also a great resource for developers who are interested in creating premium extensions for our online store.
 
-[youtube http://www.youtube.com/watch?v=2yf2Fqvbmkk]
+[youtube https://www.youtube.com/watch?v=DFAz8kKVi08]
 
 Here are just a few of the things you will find in Ninja Forms:
 
@@ -66,30 +66,240 @@ This section describes how to install the plugin and get it working.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Visit the 'Forms' menu item in your admin sidebar
 
-Shortcodes have been re-implemented. They are used like so: [ninja_forms_display_form id=3] where 3 is the ID number of the form you want to display.
+Shortcodes have been re-implemented. They are used like so: [ninja_form id=3] where 3 is the ID number of the form you want to display.
 
 == Use ==
 
-For help and video tutorials, please visit our website: [Ninja Forms Documentation](http://ninjaforms.com/documentation/)
+For help and video tutorials, please visit our website: [Ninja Forms Documentation](http://docs.ninjaforms.com/)
 
 == Upgrade Notice ==
 
-= 2.8.9 (20 November 2014 ) =
+= 2.9.18 (2 June 2015) =
 
-*Security Update:*
+*Changes:*
 
-* This version includes a fix to a security vulnerability. Please take the time to update to this version.
+* Removed usage of PHP session variables in favour of an implementation of WP Session Manager.
 
 *Bugs:*
 
-* Fixed a bug with conversions from older versions of Ninja Forms.
-* Fixed a bug that could cause two forms on the same page to behave improperly.
+* The use of WP Session manager should fix any bugs related to session_start() or headers already sent messages related to Ninja Forms.
+* Fixed a bug that could cause form caching to prevent new form settings from appearing.
 
 == Requested Features ==
 
 If you have any feature requests, please feel free to visit [ninjaforms.com](http://ninjaforms.com) and let us know about it.
 
 == Changelog ==
+
+= 2.9.18 (2 June 2015) =
+
+*Changes:*
+
+* Removed usage of PHP session variables in favour of an implementation of WP Session Manager.
+
+*Bugs:*
+
+* The use of WP Session manager should fix any bugs related to session_start() or headers already sent messages related to Ninja Forms.
+* Fixed a bug that could cause form caching to prevent new form settings from appearing.
+
+= 2.9.17 (29 May 2015) =
+
+*Security:*
+
+* Hardened form display to protect against certain cross-site scripting methods.
+
+*Bugs:*
+
+* Fixed a bug that could prevent licenses from being activated properly.
+* Submission #'s should now be properly assigned.
+
+= 2.9.16 (21 May 2015) =
+
+*Bugs:*
+
+* Fixed a bug with major calculations that could cause them to fail in some situations.
+
+= 2.9.15 (21 May 2015) =
+
+*Bugs:*
+
+* Fixed a bug with form caching that could cause fatal errors.
+
+= 2.9.14 (20 May 2015) =
+
+*Bugs:*
+
+* Fixed a bug that could cause issues using Ninja Forms with a multi-site installation.
+
+= 2.9.13 (20 May 2015) =
+
+*Bugs:*
+
+* Fixed a bug that could cause the "download all submissions" button to fail.
+
+= 2.9.12 (20 May 2015) =
+
+*Bugs:*
+
+* Fixed a bug that could prevent licenses from being deactivated properly.
+* Fixed some styling issues with the password field.
+* Fixed several PHP notices.
+
+*Changes:*
+
+* Added a new upgrade handler to make upgrading a smoother, more stable process.
+* Added support for European thousands separators in currency masks and calculations.
+* Added form caching to speed up installations with large numbers of forms.
+* Added support for using multi-select or checkbox lists as the recipient of email actions.
+
+= 2.9.11 (20 April 2015) =
+
+*Security:*
+
+* Fixed a security vulnerability that could allow users to inject scripts if they were logged in as administrators.
+
+*Bugs:*
+
+* The "Download All" button should now work properly for submissions.
+
+= 2.9.10 (14 April 2015) =
+
+*Changes:*
+
+* Added support for populating a text or hidden field from a querystring.
+* Added a reset form conversions button to allow users to re-convert forms in the case of an error. 
+
+*Bugs:*
+
+* Fixed a bug that could cause forms to not submit properly.
+* Fixed a bug that could cause a PHP crash on earlier versions of PHP.
+* The user profile setting of "Disable rich text editor" should no longer cause problems when editing forms.
+* Credit Card errors should now show properly when submitting the form via AJAX.
+* The submission limit should now only count properly submitted forms.
+* Fixed a bug with email fields and the inline label position.
+
+= 2.9.9 (14 April 2015) =
+
+*Bugs:*
+
+* Fixed a bug that could cause a crash with older versions of PHP.
+
+= 2.9.8 (14 April 2015) =
+
+*Changes:*
+
+* Added support for populating a text or hidden field from a querystring.
+* Added a reset form conversions button to allow users to re-convert forms in the case of an error. 
+
+*Bugs:*
+
+* The user profile setting of "Disable rich text editor" should no longer cause problems when editing forms.
+* Credit Card errors should now show properly when submitting the form via AJAX.
+* The submission limit should now only count properly submitted forms.
+* Fixed a bug with email fields and the inline label position.
+
+= 2.9.7 (15 March 2015) =
+
+*Bugs:*
+
+* Fixed a browser caching bug.
+* Fixed a possible, very minor security concern.
+
+= 2.9.6 (6 March 2015) =
+
+*Bugs:*
+
+* Fixed a bug that could prevent field settings dropdowns from being clicked on in FireFox.
+* Fixed a bug that could prevent the preview page from showing properly.
+
+= 2.9.5 (4 March 2015) =
+
+*Bugs:*
+
+* Deleting Ninja Forms from the plugins page should now work in all instances.
+
+= 2.9.4 (4 March 2015) =
+
+*Changes:*
+
+* Added placeholders for text fields.
+
+= 2.9.3 (4 March 2015) =
+
+*Bugs:*
+
+* Fixed a bug that could prompt users to run unnecessary updates on their site.
+
+= 2.9.2 (3 March 2015) =
+
+*Bugs:*
+
+* Preview pages should now always display properly.
+* Success messages should now always be shown after submission properly.
+
+= 2.9.1 (3 March 2015) =
+
+*Bugs:*
+
+* Fixed a bug that could cause a PHP notice to show in placeholders.
+* Fixed a bug that could cause forms not to display properly when added via the "append to page" option.
+
+= 2.9 (3 March 2015) =
+
+*Changes:*
+
+* Simplified the form creation interface by adding a "Build Your Form" tab, an "Emails & Actions" tab, and a "Settings" tab. All other tabs have been removed.
+* Form Preview and Submissions are now buttons that can be clicked at any stage of editing a form.
+* Field settings have been simplified by introducing a series of new, expandable settings sections. These sections house more advanced or less-common settings.
+
+*Bugs:*
+
+* Fixed a major bug that could prevent longer forms from saving properly. Previous fixes required modifying a php.ini file.
+* Creating a new action should now show the proper saved message.
+* Updated the Ninja Forms translation file with several new strings and cleaned up existing strings.
+* Modified the way that options are grabbed from the database to make them more effecient and prevent errors.
+* Fixed a bug that caused post meta to be added to a post/page even if no form was selected.
+
+= 2.8.13 (18 December 2014) =
+
+*Bugs:*
+
+* Fixed a bug introduced in the previous version that could prevent javascript from working properly on the front-end.
+
+= 2.8.12 (17 December 2014) =
+
+*Bugs:*
+
+* Fixed a bug that could cause field settings to appear incorrectly on WordPress version 4.1.
+* Fixed several PHP notices.
+* Fetching a form over AJAX from the frontend via the shortcode should now work properly.
+* Fixed a bug that prevented the NL translation from working properly.
+* Fixed issues that could be caused by sending blank CC and BCC headers.
+
+*Changes:*
+
+* Added a rating request at the bottom of Ninja Forms pages in the admin area.
+* Added filters for the datepicker args so that it is more easily customisable.
+
+= 2.8.11 (8 December 2014) =
+
+*Bugs:*
+
+* Fixed a bug that could cause submissions to view improperly.
+* Appending forms to a post or page from the post/page edit screen should now work properly in all instances.
+* Importing form from versions previous to 2.8 should no longer create a phantom email.
+* Importing or duplicating a form that has submissions shouldn't cause the sequential numbers for the new form to start with the same number.
+
+= 2.8.10 (2 December 2014) =
+
+*Security Update:*
+
+* This version includes a fix for a potential security vulnerability for admin users.
+
+*Bugs:*
+
+* Fixed a bug that can throw JS errors if multiple forms are on the same page.
+* Fixed typos in the welcome screen.
 
 = 2.8.9 (20 November 2014 ) =
 
@@ -141,7 +351,7 @@ If you have any feature requests, please feel free to visit [ninjaforms.com](htt
 
 * Fixed a bug with converting notifications from previous versions of Ninja Forms.
 * Re-Added the password mismatch label to the label settings tab.
-* The [ninja_forms_all_fields] short code should now function properly in plain text emails. 
+* The [ninja_forms_all_fields] short code should now function properly in plain text emails.
 * Submitted forms that are set to clear upon completion should now properly re-populate default values that are based upon logged-in user information.
 * Fixed an issue with doubles slashes on Windows servers.
 * Importing forms should now work properly in all instances.
@@ -218,7 +428,7 @@ If you have any feature requests, please feel free to visit [ninjaforms.com](htt
 
 *Security:*
 
-* Version 2.8 fixes a minor security issue that could allow non-admins and other forms to delete Ninja Forms. This won't affect all users, but we encourage everyone to update. 
+* Version 2.8 fixes a minor security issue that could allow non-admins and other forms to delete Ninja Forms. This won't affect all users, but we encourage everyone to update.
 
 *Features:*
 
