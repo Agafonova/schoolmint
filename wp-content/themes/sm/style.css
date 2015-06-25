@@ -395,6 +395,10 @@ input[type="text"], input[type="email"], input[type="password"], input[type="sea
 border: 1px solid transparent;
 
 }
+.field-wrap.email-type input {
+    min-height: 42px;
+    padding: 0 0 0 15px;
+}
 textarea {
     overflow: auto;
     /* Removes default vertical scrollbar in IE6/7/8/9 */
@@ -5708,6 +5712,21 @@ footer h3.h3 {
 }
 .ninja-forms-field-error {
     color: red;
+}
+.join .mc4wp-alert.mc4wp-error{
+background-color:transparent;
+border:none;
+color:hsl(0, 100%, 50%); 
+font-size:13px;
+font-weight:bold;
+}
+.join .mc4wp-alert.mc4wp-success{
+background-color:transparent;
+border:none;
+color:#272D34; 
+font-size:14px;
+font-weight:bold;
+padding:0 10px;
 }
 input[type="submit"].ninja-forms-field {
     display: block;

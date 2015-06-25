@@ -1,5 +1,4 @@
 	<footer id="colophon" class="site-footer" role="contentinfo">
-    
     	
 		<div class="t-16 text-white bg-footer">
 							<div class="wrap">
@@ -111,7 +110,10 @@
 <div class="col-sm-4 col-xs-11">
 <ul class="join">
 <h4 class="t-12">Join our mailing list</h4>
-<li><?php if( function_exists( 'ninja_forms_display_form' ) ){ ninja_forms_display_form( 4 ); }?></li>
+<li><?php
+// if( function_exists( 'ninja_forms_display_form' ) ){ ninja_forms_display_form( 4 ); }
+echo mc4wp_get_form(0);
+?></li>
 <li><a href="https://www.rapidssl.com/"><img src="/wp-content/themes/sm/images/icon.png"></a></li>
 
 
