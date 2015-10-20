@@ -161,6 +161,8 @@ var google_remarketing_only = false;
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/modal.js">
+</script>
 <noscript>
 <!--<div style="display:inline;">
 <!--<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/969832836/?label=Vp5VCMTs5QkQhPO5zgM&amp;guid=ON&amp;script=0"/>
