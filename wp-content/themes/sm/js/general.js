@@ -25,15 +25,16 @@
       var Sc = 0;
       var stop = 0;
 
-      window.onscroll = function () {
+      document.window.onscroll = function () {
         Tr = 0;
         Sc = 1;
       };
-      window.onclick = function () {
+      document.window.onclick = function () {
         Tr = 0;
       };
 
       function runPopUp() {
+        console.log (popUpCounter , popUpCounterScroll )
 
         if (popUpCounter > 60 || popUpCounterScroll > 15) {
           stop = 1;
