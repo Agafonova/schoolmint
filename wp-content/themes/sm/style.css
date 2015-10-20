@@ -5713,20 +5713,21 @@ footer h3.h3 {
 .ninja-forms-field-error {
     color: red;
 }
-.join .mc4wp-alert.mc4wp-error{
+.join .mc4wp-alert.mc4wp-error, .join .mc4wp-alert.mc4wp-notice {
 background-color:transparent;
 border:none;
-color:hsl(0, 100%, 50%); 
+color:#ffffff; 
 font-size:13px;
 font-weight:bold;
+padding:2px 0 0 0;
 }
 .join .mc4wp-alert.mc4wp-success{
 background-color:transparent;
 border:none;
-color:#272D34; 
+color:#8dda00; 
 font-size:14px;
 font-weight:bold;
-padding:0 10px;
+padding:2px 0 0 0;
 }
 input[type="submit"].ninja-forms-field {
     display: block;
@@ -6816,7 +6817,9 @@ margin-left:0;
 .ninja-forms-response-msg.ninja-forms-error-msg{
 display:none;
 }
-
+#ninja_forms_field_35_div_wrap > label {
+    border: medium none;
+}
 .ninja-forms-success-msg strong{
 color:#000000;
 

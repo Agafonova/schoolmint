@@ -11,10 +11,11 @@ setTimeout(function(){
                 if (type != 'hidden') {
                     var value = jQuery(this).val();
                     arr['field' + fields] = value;
+                    if (value.match(/^your message/)) valid = false;
                     fields++;
                 }
             });
-            if (arr.field2.match(/.+@.+/)) {
+            if (arr.field2.match(/.+@.+/) && valid) {
                 var code = 'ozlw9h/';
                 jQuery.getJSON('https://zapier.com/hooks/catch/' + code, arr);
             
