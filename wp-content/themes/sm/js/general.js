@@ -40,7 +40,7 @@
 
          if (popUpCounter > 30 || popUpCounterScroll > 10 ){
            console.log ('start_popUp');
-           stop = 0;
+           stop = 1;
            jQuery('#myModal').modal('show');
 
          }
