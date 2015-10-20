@@ -66,13 +66,16 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </head>
 
 <body <?php body_class(); ?>>
-<div class="modal fade">
-  <div class="modal-dialog">
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
     <div class="modal-content">
 		<iframe src="http://go.pardot.com/l/105592/2015-10-16/26bxv" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
+    </div>
+  </div>
+</div>
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+  Launch demo modal
+</button>
 <div id="wrapper-one">
 <div id="wrapper-two">
 <div id="wrapper-three">
