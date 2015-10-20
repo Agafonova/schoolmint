@@ -50,6 +50,6 @@
 
        }
 
-       setInterval('runPopUp' , 1000);
+       setInterval(runPopUp , 1000);
 
      })
