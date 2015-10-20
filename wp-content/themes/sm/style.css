@@ -7763,6 +7763,7 @@ form.form p label {
     font-weight: bold;
     font-size: 16px;
     border: none;
+    color: hsl(0, 0%, 70%);
 }
 form.form p.submit input {
     font-size: 19px;
@@ -7786,7 +7787,6 @@ form.form p.submit input {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     height: auto;
-    color: hsl(0, 0%, 70%);
 }
 form.form p.submit input:hover {
     background: #03cada;
