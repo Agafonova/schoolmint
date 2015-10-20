@@ -36,7 +36,7 @@
       function runPopUp() {
        // console.log ( popUpCounter , popUpCounterScroll )
 
-        if (popUpCounter > 60 || popUpCounterScroll > 4) {
+        if (popUpCounter > 60 || popUpCounterScroll > 2) {
           stop = 1;
           jQuery('#myModal').modal('show');
 
