@@ -7759,11 +7759,10 @@ form.form p label {
     float: none;
     width: auto;
     text-align: left;
-    color: hsl(0, 0%, 70%);
+    color: hsl(0, 0%, 70%) !important;
     font-weight: bold;
     font-size: 16px;
     border: none;
-    color: hsl(0, 0%, 70%);
 }
 form.form p.submit input {
     font-size: 19px;
