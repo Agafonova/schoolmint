@@ -34,6 +34,7 @@
        };
 
        function runPopUp() {
+         console.log (popUpCounter , popUpCounterScroll );
 
          if (stop == 1) return;
 
@@ -49,6 +50,6 @@
 
        }
 
-       time
+       setInterval('runPopUp' , 1000);
 
      })
