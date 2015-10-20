@@ -25,11 +25,11 @@
       var Sc = 0;
       var stop = 0;
 
-      document.window.onscroll = function () {
+      window.onscroll = function () {
         Tr = 0;
         Sc = 1;
       };
-      document.window.onclick = function () {
+      window.onclick = function () {
         Tr = 0;
       };
 
