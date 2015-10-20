@@ -17,18 +17,42 @@
 */
 
 
-     jQuery( document ).ready(function() {
+    jQuery(document).ready(function () {
 
-     var popUpCounter = 0;
-     var popUpTr = 1;
+      var popUpCounter = 0;
+      var popUpCounterScroll = 0;
+      var Tr = 1;
+      var Sc = 0;
+      var stop = 0;
 
-       window.onscroll = function() {
-         popUpTr = 0;
-         console.log('test');
-       };
-       window.onclick = function() {
-         popUpTr = 0;
-         console.log('test');
-       };
+      window.onscroll = function () {
+        Tr = 0;
+        Sc = 1;
+      };
+      window.onclick = function () {
+        Tr = 0;
+      };
 
-     })
+      function runPopUp() {
+
+        if (popUpCounter > 60 || popUpCounterScroll > 15) {
+          stop = 1;
+          jQuery('#myModal').modal('show');
+
+        }
+
+        if (Tr == 1) popUpCounter++;
+        if (Sc == 1) popUpCounterScroll++;
+
+      }
+
+      function run() {
+        if (stop == 0) {
+          runPopUp();
+          setTimeout(run, 1000);
+        }
+      }
+
+      setTimeout(run, 1000)
+
+    })
