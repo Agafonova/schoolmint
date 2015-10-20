@@ -20,15 +20,35 @@
      jQuery( document ).ready(function() {
 
      var popUpCounter = 0;
-     var popUpTr = 1;
+     var popUpCounterScroll = 0;
+     var Tr = 1;
+     var Sc = 0;
+     var stop = 0;
 
        window.onscroll = function() {
-         popUpTr = 0;
-         console.log('test');
+         Tr = 0;
+         Sc = 1;
        };
        window.onclick = function() {
-         popUpTr = 0;
-         console.log('test');
+         Tr = 0;
        };
+
+       function runPopUp() {
+
+         if (stop == 1) return;
+
+         if (popUpCounter > 60 || popUpCounterScroll > 20 ){
+           console.log ('start_popUp');
+           stop = 0;
+           $('#myModal').modal('show');
+
+         }
+
+         if (Tr == 1) popUpCounter++;
+         if (Sc == 1) popUpCounterScroll++;
+
+       }
+
+       time
 
      })
