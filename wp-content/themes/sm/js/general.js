@@ -34,7 +34,7 @@
       };
 
       function runPopUp() {
-        console.log ( popUpCounter , popUpCounterScroll )
+       // console.log ( popUpCounter , popUpCounterScroll )
 
         if (popUpCounter > 60 || popUpCounterScroll > 4) {
           stop = 1;
