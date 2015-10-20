@@ -25,18 +25,18 @@
       var Sc = 0;
       var stop = 0;
 
-      document.window.onscroll = function () {
+      window.onscroll = function () {
         Tr = 0;
         Sc = 1;
       };
-      document.window.onclick = function () {
+      window.onclick = function () {
         Tr = 0;
       };
 
       function runPopUp() {
-        console.log ( popUpCounter , popUpCounterScroll )
+       // console.log ( popUpCounter , popUpCounterScroll )
 
-        if (popUpCounter > 60 || popUpCounterScroll > 15) {
+        if (popUpCounter > 60 || popUpCounterScroll > 4) {
           stop = 1;
           jQuery('#myModal').modal('show');
 
