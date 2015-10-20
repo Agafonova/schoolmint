@@ -7740,10 +7740,26 @@ margin: 0 29px 0 0;
 .leaf-grey-center {
     margin-top: -30px;
 }
-#pardot-form input {
+
+
+
+form.form input {
     width: 100%;
     color: hsl(0, 0%, 70%);
-    font-family: "proxima_novalight";
     height: 42px;
     padding: 0 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    font-size: 13px;
+}
+form.form p label {
+    float: none;
+    width: auto;
+    text-align: left;
+    color: hsl(0, 0%, 70%);
+    font-weight: bold;
+    font-size: 19px;
 }
