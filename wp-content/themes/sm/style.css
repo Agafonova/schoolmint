@@ -7740,3 +7740,10 @@ margin: 0 29px 0 0;
 .leaf-grey-center {
     margin-top: -30px;
 }
+#pardot-form input {
+    width: 100%;
+    color: hsl(0, 0%, 70%);
+    font-family: "proxima_novalight";
+    height: 42px;
+    padding: 0 15px;
+}
