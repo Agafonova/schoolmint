@@ -7763,3 +7763,34 @@ form.form p label {
     font-weight: bold;
     font-size: 19px;
 }
+form.form p.submit input {
+    font-size: 19px;
+    font-weight: bold;
+    background-color: #8dda00;
+    border: none;
+    box-shadow: none;
+    color: #fff;
+    display: block;
+    padding: 19px 20px 18px;
+    text-shadow: none;
+    text-transform: none;
+    width: 100%;
+    text-align: center;
+    border-radius: 3px;
+    -moz-border-radius: 3px;    
+    -webkit-border-radius: 3px;
+    cursor: pointer;
+    display: block;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+form.form p.submit input:hover {
+    background: #03cada;
+}
+form.form p.required label, form.form span.required label {
+    background: none;
+}
+form.form p.required label:after, form.form span.required label:after {
+    content: "*";
+}
