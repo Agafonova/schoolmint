@@ -34,10 +34,8 @@
       };
 
       function runPopUp() {
-        console.log(popUpCounter, popUpCounterScroll);
 
         if (popUpCounter > 60 || popUpCounterScroll > 15) {
-          console.log('start_popUp');
           stop = 1;
           jQuery('#myModal').modal('show');
 
