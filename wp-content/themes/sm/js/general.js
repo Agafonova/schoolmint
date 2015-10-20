@@ -38,10 +38,10 @@
 
          if (stop == 1) return;
 
-         if (popUpCounter > 60 || popUpCounterScroll > 20 ){
+         if (popUpCounter > 30 || popUpCounterScroll > 10 ){
            console.log ('start_popUp');
            stop = 0;
-           $('#myModal').modal('show');
+           jQuery('#myModal').modal('show');
 
          }
 
