@@ -36,8 +36,6 @@
        function runPopUp() {
          console.log (popUpCounter , popUpCounterScroll );
 
-         if (stop == 1) return;
-
          if (popUpCounter > 30 || popUpCounterScroll > 10 ){
            console.log ('start_popUp');
            stop = 1;
@@ -50,6 +48,13 @@
 
        }
 
-       setInterval(runPopUp , 1000);
+       function run (){
+         if (stop == 0) {
+           runPopUp ();
+           setTimeout(run,1000);
+         }
+       }
+
+       setTimeout(run,1000)
 
      })
